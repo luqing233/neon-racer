@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+.vite/
+
+# Verification evidence: keep the current screenshots + machine-readable reports,
+# ignore the archived historical revisions and quarantine folders.
+artifacts/*
+!artifacts/*.png
+!artifacts/*.json
+artifacts/revision-*/
+artifacts/v1-ship/
+artifacts/throwaway-*/

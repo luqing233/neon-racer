@@ -1,0 +1,447 @@
+{
+  "harness": "tools/stall-probe.mjs",
+  "startedAt": "2026-10-18T19:07:44.038Z",
+  "runs": [
+    {
+      "index": 1,
+      "seed": 20261018,
+      "style": "circuit",
+      "callMs": 84.5,
+      "firstRaf": 94.3,
+      "secondRaf": 100.1,
+      "screenVisibleAt": 100.4,
+      "longtasks": [
+        {
+          "start": 3.6,
+          "duration": 93
+        }
+      ],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 16219,
+      "trackName": "VIOLET HAIRPIN",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 93,
+      "longtaskMaxMs": 93,
+      "metrics": {
+        "taskMs": 350.29,
+        "scriptMs": 23.27,
+        "layoutMs": 64.8,
+        "recalcStyleMs": 4.68
+      }
+    },
+    {
+      "index": 2,
+      "seed": 888,
+      "style": "circuit",
+      "callMs": 72.6,
+      "firstRaf": 67.8,
+      "secondRaf": 79.5,
+      "screenVisibleAt": 79.7,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 16206,
+      "trackName": "VIOLET MAZE",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 224.34,
+        "scriptMs": 22.77,
+        "layoutMs": 3.15,
+        "recalcStyleMs": 0.59
+      }
+    },
+    {
+      "index": 3,
+      "seed": 777,
+      "style": "speedway",
+      "callMs": 26.6,
+      "firstRaf": 79.7,
+      "secondRaf": 82.9,
+      "screenVisibleAt": 83.2,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 18133,
+      "trackName": "THUNDER MAZE",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 213.74,
+        "scriptMs": 23.61,
+        "layoutMs": 1.99,
+        "recalcStyleMs": 0.55
+      }
+    },
+    {
+      "index": 4,
+      "seed": 1234,
+      "style": "technical",
+      "callMs": 85.4,
+      "firstRaf": 23.6,
+      "secondRaf": 27.5,
+      "screenVisibleAt": 27.8,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 12674,
+      "trackName": "CINDER LOOP",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 226.73,
+        "scriptMs": 20.19,
+        "layoutMs": 1.67,
+        "recalcStyleMs": 0.45
+      }
+    },
+    {
+      "index": 5,
+      "seed": 20261018,
+      "style": "circuit",
+      "callMs": 128.5,
+      "firstRaf": 23.5,
+      "secondRaf": 27,
+      "screenVisibleAt": 27.2,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 16219,
+      "trackName": "VIOLET HAIRPIN",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 252.47,
+        "scriptMs": 19.14,
+        "layoutMs": 1.7,
+        "recalcStyleMs": 0.35
+      }
+    },
+    {
+      "index": 6,
+      "seed": 20261018,
+      "style": "circuit",
+      "callMs": 136.9,
+      "firstRaf": 23.4,
+      "secondRaf": 26.4,
+      "screenVisibleAt": 26.5,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 16219,
+      "trackName": "VIOLET HAIRPIN",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 219.75,
+        "scriptMs": 18.94,
+        "layoutMs": 1.09,
+        "recalcStyleMs": 0.35
+      }
+    },
+    {
+      "index": 7,
+      "seed": 20261018,
+      "style": "circuit",
+      "callMs": 154.9,
+      "firstRaf": 24.2,
+      "secondRaf": 29,
+      "screenVisibleAt": 29.1,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 16219,
+      "trackName": "VIOLET HAIRPIN",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 239.74,
+        "scriptMs": 17.89,
+        "layoutMs": 1.31,
+        "recalcStyleMs": 0.91
+      }
+    },
+    {
+      "index": 8,
+      "seed": 20261018,
+      "style": "circuit",
+      "callMs": 157.7,
+      "firstRaf": 21,
+      "secondRaf": 24.1,
+      "screenVisibleAt": 24.2,
+      "longtasks": [],
+      "longtaskError": null,
+      "canvasChanged": true,
+      "trackLength": 16219,
+      "trackName": "VIOLET HAIRPIN",
+      "hidden": false,
+      "visibility": "visible",
+      "longtaskTotalMs": 0,
+      "longtaskMaxMs": 0,
+      "metrics": {
+        "taskMs": 229.18,
+        "scriptMs": 15.09,
+        "layoutMs": 0.87,
+        "recalcStyleMs": 0.35
+      }
+    }
+  ],
+  "summary": {
+    "runs": 8,
+    "firstRafMin": 21,
+    "firstRafMedian": 24.2,
+    "firstRafMax": 94.3,
+    "totalMin": 106.30000000000001,
+    "totalMax": 179.1,
+    "longtaskRuns": 1,
+    "maxLongtaskMs": 93,
+    "maxLayoutMs": 64.8,
+    "maxTaskMs": 350.29
+  },
+  "ok": true,
+  "chrome": "Chrome/155.0.8059.82",
+  "swap": {
+    "idleFrameGapsMs": [
+      7.3,
+      7.5,
+      7.6,
+      22.5,
+      7.3,
+      16.1,
+      15.1,
+      8.2
+    ],
+    "idleMedianGapMs": 8.2,
+    "restartCached": {
+      "runs": [
+        {
+          "kind": "startRace",
+          "callMs": 147.7,
+          "firstRaf": 2.7,
+          "secondRaf": 5.1,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "VIOLET HAIRPIN",
+            "length": 16219
+          },
+          "metrics": {
+            "taskMs": 158.49,
+            "scriptMs": 4.12,
+            "layoutMs": 0.64,
+            "recalcStyleMs": 0.22
+          }
+        },
+        {
+          "kind": "startRace",
+          "callMs": 150.9,
+          "firstRaf": 3.3,
+          "secondRaf": 6.1,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "VIOLET HAIRPIN",
+            "length": 16219
+          },
+          "metrics": {
+            "taskMs": 158.65,
+            "scriptMs": 3.84,
+            "layoutMs": 0.55,
+            "recalcStyleMs": 0.24
+          }
+        },
+        {
+          "kind": "startRace",
+          "callMs": 154.4,
+          "firstRaf": 2,
+          "secondRaf": 4.2,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "VIOLET HAIRPIN",
+            "length": 16219
+          },
+          "metrics": {
+            "taskMs": 161.8,
+            "scriptMs": 3.35,
+            "layoutMs": 0.74,
+            "recalcStyleMs": 0.25
+          }
+        }
+      ],
+      "medianFirstRaf": 2.7,
+      "medianLayoutMs": 0.64,
+      "medianTaskMs": 158.65
+    },
+    "menuToRaceCached": {
+      "runs": [
+        {
+          "kind": "startRace",
+          "callMs": 152,
+          "firstRaf": 6.4,
+          "secondRaf": 39.5,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "VIOLET HAIRPIN",
+            "length": 16219
+          },
+          "metrics": {
+            "taskMs": 163.63,
+            "scriptMs": 3.13,
+            "layoutMs": 1.64,
+            "recalcStyleMs": 2.55
+          }
+        },
+        {
+          "kind": "startRace",
+          "callMs": 137.9,
+          "firstRaf": 2.3,
+          "secondRaf": 4.5,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "VIOLET HAIRPIN",
+            "length": 16219
+          },
+          "metrics": {
+            "taskMs": 144.24,
+            "scriptMs": 2.41,
+            "layoutMs": 0.38,
+            "recalcStyleMs": 0.3
+          }
+        },
+        {
+          "kind": "startRace",
+          "callMs": 137.9,
+          "firstRaf": 4.1,
+          "secondRaf": 6.6,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "VIOLET HAIRPIN",
+            "length": 16219
+          },
+          "metrics": {
+            "taskMs": 149.52,
+            "scriptMs": 5.68,
+            "layoutMs": 1.08,
+            "recalcStyleMs": 0.54
+          }
+        }
+      ],
+      "medianFirstRaf": 4.1,
+      "medianLayoutMs": 1.08,
+      "medianTaskMs": 149.52
+    },
+    "menuToRaceFresh": {
+      "runs": [
+        {
+          "kind": "startRace",
+          "callMs": 97.9,
+          "firstRaf": 5.7,
+          "secondRaf": 9.5,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "ELECTRIC MAZE",
+            "length": 15718
+          },
+          "metrics": {
+            "taskMs": 111.83,
+            "scriptMs": 6.68,
+            "layoutMs": 1.51,
+            "recalcStyleMs": 0.39
+          }
+        },
+        {
+          "kind": "startRace",
+          "callMs": 72,
+          "firstRaf": 19.4,
+          "secondRaf": 96,
+          "longtasks": [],
+          "longtaskTotalMs": 0,
+          "detail": {
+            "track": "ELECTRIC MAZE",
+            "length": 15718
+          },
+          "metrics": {
+            "taskMs": 79.8,
+            "scriptMs": 3.04,
+            "layoutMs": 0.5,
+            "recalcStyleMs": 0.26
+          }
+        }
+      ],
+      "medianFirstRaf": 19.4,
+      "medianLayoutMs": 1.51,
+      "medianTaskMs": 111.83
+    },
+    "pauseSwap": {
+      "kind": "togglePause",
+      "callMs": 19.6,
+      "firstRaf": 1,
+      "secondRaf": 3.7,
+      "longtasks": [],
+      "longtaskTotalMs": 0,
+      "detail": {},
+      "metrics": {
+        "taskMs": 26.42,
+        "scriptMs": 2.4,
+        "layoutMs": 16.36,
+        "recalcStyleMs": 2.47
+      }
+    },
+    "resumeSwap": {
+      "kind": "togglePause",
+      "callMs": 2.2,
+      "firstRaf": 3.2,
+      "secondRaf": 68.5,
+      "longtasks": [],
+      "longtaskTotalMs": 0,
+      "detail": {},
+      "metrics": {
+        "taskMs": 10.8,
+        "scriptMs": 2.92,
+        "layoutMs": 2.16,
+        "recalcStyleMs": 1.22
+      }
+    },
+    "quitToMenu": {
+      "kind": "clickQuit",
+      "callMs": 0.9,
+      "firstRaf": 28.4,
+      "secondRaf": 36.9,
+      "longtasks": [],
+      "longtaskTotalMs": 0,
+      "detail": {
+        "clicked": true
+      },
+      "metrics": {
+        "taskMs": 22.27,
+        "scriptMs": 3.29,
+        "layoutMs": 7.59,
+        "recalcStyleMs": 2.51
+      }
+    },
+    "comparison": {
+      "domSwapCostMs": 1.3999999999999995,
+      "freshTrackCostMs": 15.299999999999999
+    }
+  },
+  "finishedAt": "2026-10-18T19:07:52.913Z"
+}

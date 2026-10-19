@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+    <meta name="theme-color" content="#05060f" />
+    <meta
+      name="description"
+      content="Neon Racer - 霓虹赛车：零依赖的网页版俯视角街机赛车游戏，Canvas 2D + TypeScript。"
+    />
+    <title>NEON RACER · 霓虹赛车</title>
+  </head>
+  <body>
+    <!-- Fixed shell. All menus/HUD/overlays are created at runtime by src/ui/ui.ts. -->
+    <div id="app">
+      <canvas id="game" aria-label="赛车游戏画面"></canvas>
+      <div id="ui-root"></div>
+    </div>
+    <noscript>本游戏需要启用 JavaScript 才能运行。</noscript>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

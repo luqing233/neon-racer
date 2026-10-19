@@ -1,0 +1,3165 @@
+{
+  "harness": "tools/v2-verify.mjs",
+  "startedAt": "2026-10-18T19:24:25.356Z",
+  "viewport": {
+    "width": 1600,
+    "height": 900
+  },
+  "screens": [
+    {
+      "name": "17-chase-speed",
+      "file": "artifacts/17-chase-speed.png",
+      "bytes": 748120,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 28.86,
+        "distinctColors": 176
+      },
+      "dom": {
+        "bodyText": "第 1 圈完成 LAP 1 最快圈 BEST LAP 0:31.833 P3 /4 圈数 LAP 2/2 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:01.917 比赛计时 RACE 0:35.217 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L2 2 ONYX L2 3 PLAYER L2 4 NOVA L2 最快圈 BEST 0:31.833 上圈 LAST 0:31.833 BEST 赛车 CAR BALANCED · 均衡 258 KM/H 档位 GEAR 6 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 57",
+        "toasts": 2,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "state": {
+        "done": true,
+        "speed": 508.2,
+        "lap": 1,
+        "cameraMode": "chase"
+      }
+    },
+    {
+      "name": "18-chase-drift",
+      "file": "artifacts/18-chase-drift.png",
+      "bytes": 883916,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 29.54,
+        "distinctColors": 165
+      },
+      "dom": {
+        "bodyText": "P1 /1 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:02.417 比赛计时 RACE 0:03.808 赛道 TRACK 实时排名 LIVE STANDINGS 1 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR DRIFTER · 漂移 70 KM/H 档位 GEAR 2 漂移充能 DRIFT CHARGE 17% 草地 GRASS FPS 34",
+        "toasts": 0,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "state": {
+        "done": false,
+        "drifting": true,
+        "charge": 0.46111111111111047,
+        "boost": 0,
+        "entered": true,
+        "full": false,
+        "boostFired": false,
+        "maxCharge": 0.46111111111111047,
+        "speed": 421.5,
+        "slip": 0.6484342564456248,
+        "driftTime": 0.6916666666666667,
+        "phase": "racing"
+      }
+    },
+    {
+      "name": "19-chase-boost",
+      "file": "artifacts/19-chase-boost.png",
+      "bytes": 968119,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 33.37,
+        "distinctColors": 239
+      },
+      "dom": {
+        "bodyText": "漂移充能完成 DRIFT BOOST READY P1 /1 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:05.617 比赛计时 RACE 0:07.008 赛道 TRACK 实时排名 LIVE STANDINGS 1 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR DRIFTER · 漂移 185 KM/H 档位 GEAR 5 漂移充能 DRIFT CHARGE BOOST! 草地 GRASS FPS 28",
+        "toasts": 1,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "state": {
+        "done": false,
+        "drifting": true,
+        "charge": 0.05555555555555556,
+        "boost": 1.5083333333333337,
+        "entered": true,
+        "full": false,
+        "boostFired": true,
+        "maxCharge": 0.9806944444444381,
+        "speed": 398.1,
+        "slip": 0.7274504319948918,
+        "driftTime": 0.08333333333333333,
+        "phase": "racing"
+      }
+    },
+    {
+      "name": "20-topdown-speed",
+      "file": "artifacts/20-topdown-speed.png",
+      "bytes": 846728,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 31.09,
+        "distinctColors": 212
+      },
+      "dom": {
+        "bodyText": "P4 /4 圈数 LAP 1/3 难度 DIFFICULTY PRO V NORTH-UP 俯视 当前圈 CURRENT LAP 0:08.467 比赛计时 RACE 0:08.975 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 NOVA L1 3 ONYX L1 4 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 259 KM/H 档位 GEAR 6 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 34",
+        "toasts": 0,
+        "cameraChip": "V NORTH-UP 俯视",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "state": {
+        "phase": "racing",
+        "time": 8.04166666666685,
+        "countdown": 0,
+        "lap": 0,
+        "laps": 3,
+        "place": 4,
+        "racers": 4,
+        "speed": 518.3379233341825,
+        "pos": {
+          "x": 1257.385661666973,
+          "y": 1845.527095667785
+        },
+        "bestLap": null,
+        "finished": false,
+        "trackLength": 16218.620526050996,
+        "cameraMode": "topdown",
+        "cameraZoom": 0.6770042832115385,
+        "cameraAngle": -0.008429101381926271
+      }
+    },
+    {
+      "name": "21-toggle-immediate",
+      "file": "artifacts/21-toggle-immediate.png",
+      "bytes": 924695,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 27.77,
+        "distinctColors": 176
+      },
+      "dom": {
+        "bodyText": "视角：第三人称跟随 CHASE CAM P4 /4 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:10.375 比赛计时 RACE 0:10.883 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 ONYX L1 3 NOVA L1 4 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 249 KM/H 档位 GEAR 6 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 61",
+        "toasts": 1,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "preToggle": {
+        "t": 9.167,
+        "mode": "topdown",
+        "camAngle": -0.0049,
+        "zoom": 0.6766,
+        "carAngle": 2.8368,
+        "speed": 516.3,
+        "angVel": 0.1018,
+        "slip": 0.004,
+        "drifting": false,
+        "charge": 0,
+        "boost": 0,
+        "lap": 0,
+        "screen": {
+          "x": 877.9,
+          "y": 421.5
+        },
+        "w": 1600,
+        "h": 900
+      }
+    },
+    {
+      "name": "22-toggle-settled",
+      "file": "artifacts/22-toggle-settled.png",
+      "bytes": 775402,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 29.17,
+        "distinctColors": 165
+      },
+      "dom": {
+        "bodyText": "P4 /4 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:12.583 比赛计时 RACE 0:13.092 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 ONYX L1 3 NOVA L1 4 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 260 KM/H 档位 GEAR 6 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 52",
+        "toasts": 0,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "preToggle": {
+        "t": 9.167,
+        "mode": "topdown",
+        "camAngle": -0.0049,
+        "zoom": 0.6766,
+        "carAngle": 2.8368,
+        "speed": 516.3,
+        "angVel": 0.1018,
+        "slip": 0.004,
+        "drifting": false,
+        "charge": 0,
+        "boost": 0,
+        "lap": 0,
+        "screen": {
+          "x": 877.9,
+          "y": 421.5
+        },
+        "w": 1600,
+        "h": 900
+      }
+    },
+    {
+      "name": "24-chase-45deg",
+      "file": "artifacts/24-chase-45deg.png",
+      "bytes": 849747,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 29.95,
+        "distinctColors": 224
+      },
+      "dom": {
+        "bodyText": "出发 GO! P3 /4 圈数 LAP 1/4 难度 DIFFICULTY ROOKIE V CHASE 跟随 当前圈 CURRENT LAP 0:01.942 比赛计时 RACE 0:03.308 赛道 TRACK 实时排名 LIVE STANDINGS 1 VIPER L1 2 NOVA L1 3 PLAYER L1 4 PULSAR L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 251 KM/H 档位 GEAR 6 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 25",
+        "toasts": 1,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "attempt": 1,
+      "hit": {
+        "done": true,
+        "diag": 0.978,
+        "angle": -3.8229,
+        "speed": 516.5,
+        "time": 2.37
+      }
+    },
+    {
+      "name": "25-track-speedway",
+      "file": "artifacts/25-track-speedway.png",
+      "bytes": 866488,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 29.46,
+        "distinctColors": 208
+      },
+      "dom": {
+        "bodyText": "出发 GO! P4 /4 圈数 LAP 1/2 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:01.683 比赛计时 RACE 0:03.050 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 ONYX L1 3 NOVA L1 4 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR SPEEDSTER · 疾速 82 KM/H 档位 GEAR 2 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 25",
+        "toasts": 1,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "style": "speedway"
+    },
+    {
+      "name": "26-track-technical",
+      "file": "artifacts/26-track-technical.png",
+      "bytes": 785244,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 31.5,
+        "distinctColors": 201
+      },
+      "dom": {
+        "bodyText": "出发 GO! P4 /4 圈数 LAP 1/2 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:01.483 比赛计时 RACE 0:02.808 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 ONYX L1 3 NOVA L1 4 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR SPEEDSTER · 疾速 95 KM/H 档位 GEAR 2 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 46",
+        "toasts": 1,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "style": "technical"
+    },
+    {
+      "name": "23-chase-mobile-390x844",
+      "file": "artifacts/23-chase-mobile-390x844.png",
+      "bytes": 334357,
+      "png": {
+        "width": 390,
+        "height": 844
+      },
+      "canvas": {
+        "cssWidth": 390,
+        "cssHeight": 844,
+        "backingWidth": 390,
+        "backingHeight": 844,
+        "stddevLuminance": 45.78,
+        "distinctColors": 395
+      },
+      "dom": {
+        "bodyText": "出发 GO! P3 /4 圈数 LAP 1/2 V CHASE 跟随 当前圈 CURRENT LAP 0:00.300 赛道 TRACK 192 KM/H 5 0% ◀ 左 LEFT ▶ 右 RIGHT ▼ 刹车 BRAKE ▲ 油门 GAS ✦ 手刹 DRIFT ❚❚ 暂停 PAUSE",
+        "toasts": 1,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 6,
+        "viewport": {
+          "width": 390,
+          "height": 844
+        }
+      },
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 1,
+        "scrollWidth": 390,
+        "coarsePointer": true
+      },
+      "mode": "chase",
+      "speed": {
+        "done": true,
+        "speed": 165.4,
+        "time": 1.14
+      }
+    },
+    {
+      "name": "27-quit-clean-menu",
+      "file": "artifacts/27-quit-clean-menu.png",
+      "bytes": 832213,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "stddevLuminance": 19.29,
+        "distinctColors": 126
+      },
+      "dom": {
+        "bodyText": "零依赖街机赛车 · ZERO-DEPENDENCY ARCADE RACER NEON RACER 霓虹赛车 · 夜城狂飙 · NIGHT CITY OVERDRIVE 60 FPS TARGET 10 RACERS MAX 0 ASSET FILES 比赛设置 RACE SETUP P1 GRID 赛道种子 TRACK SEED 随机 RANDOM 赛道风格 TRACK STYLE 环道 CIRCUIT 技术赛道 TECHNICAL 高速环 SPEEDWAY 随机 RANDOM 圈数 LAPS 3 对手数量 OPPONENTS 5 难度 DIFFICULTY 新手 ROOKIE 标准 PRO 高手 VETERAN 疯子 INSANE 赛车等级 CAR CLASS BALANCED · 均衡 DRIFTER · 漂移 SPEEDSTER · 疾速 视角 CAMERA 第三人称跟随 CHAS",
+        "toasts": 0,
+        "cameraChip": "V CHASE 跟随",
+        "menuCameraValue": "chase",
+        "touchButtons": 0,
+        "viewport": {
+          "width": 1600,
+          "height": 900
+        }
+      },
+      "toastNow": 1,
+      "toastAfter": 0
+    }
+  ],
+  "checks": [
+    {
+      "name": "chase is the default camera mode",
+      "pass": true,
+      "detail": "mode=chase",
+      "note": false
+    },
+    {
+      "name": "renderer: one-time track pre-render measured (software raster, informational)",
+      "pass": true,
+      "detail": "first frame after startRace = 45.1 ms (track 16218.6 units)",
+      "note": true
+    },
+    {
+      "name": "camera: car never enters the outer 15% of the screen (chase lap)",
+      "pass": true,
+      "detail": "frames=1176 violations=0 worst |x-0.5|=0.014 |y-0.5|=0.216",
+      "note": false
+    },
+    {
+      "name": "camera: probe captured the real car screen position",
+      "pass": true,
+      "detail": "screen frames=1176, halo arcs=1178, car sprites/frame=24",
+      "note": false
+    },
+    {
+      "name": "camera: chase cameraAngle tracks -carAngle - PI/2 while driving straight",
+      "pass": true,
+      "detail": "straight frames=122 mean|err|=0.0139 p95=0.0472 max=0.0829",
+      "note": false
+    },
+    {
+      "name": "camera: chase zoom stays inside the CAMERA band (0.30..1.90, observed near 0.76..1.02)",
+      "pass": true,
+      "detail": "zoom min=0.7734 max=1.0202",
+      "note": false
+    },
+    {
+      "name": "camera: cornering without handbrake never drifts",
+      "pass": true,
+      "detail": "drift frames=0/1176",
+      "note": false
+    },
+    {
+      "name": "chase lap completed",
+      "pass": true,
+      "detail": "lap=1 time=33.39999999999875s",
+      "note": false
+    },
+    {
+      "name": "17-chase-speed.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "drift: handbrake at speed makes the car drift (real-time browser frames)",
+      "pass": true,
+      "detail": "maxSlip=1 driftTime=1.0166666666666655s",
+      "note": false
+    },
+    {
+      "name": "drift: a boost actually fires (real-time browser frames)",
+      "pass": true,
+      "detail": "boostFired=true maxBoostTime=1.5833333333333335",
+      "note": false
+    },
+    {
+      "name": "drift: driftCharge fills to the grant threshold (120 Hz browser probe)",
+      "pass": true,
+      "detail": "maxCharge(120 Hz)=0.9970833333333272 maxCharge(frame)=0.9806944444444381 chargedTo1AtGrant=false (charge resets to 0 on the granting substep)",
+      "note": false
+    },
+    {
+      "name": "drift: 120 Hz probe confirms drift -> charge -> boost chain",
+      "pass": true,
+      "detail": "entryStep=26 boostStep=451 driftTime=0.8999999999999992s maxSlip=1 maxBoost=1.5916666666666668s",
+      "note": false
+    },
+    {
+      "name": "18-chase-drift.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "19-chase-boost.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "topdown: camera settles after the damped mode switch",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "topdown: mode switch works",
+      "pass": true,
+      "detail": "mode=topdown",
+      "note": false
+    },
+    {
+      "name": "topdown: north-up behaviour unchanged (no rotation beyond the 0.05 rad accent)",
+      "pass": true,
+      "detail": "frames=306 max|angle|=0.05",
+      "note": false
+    },
+    {
+      "name": "20-topdown-speed.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "toggle: V key switches topdown -> chase mid-race",
+      "pass": true,
+      "detail": "{\"frames\":217,\"preMode\":\"topdown\",\"firstChaseMode\":\"chase\",\"jumpAtSwitch\":25.6,\"maxFrameJump\":42.3,\"chip\":\"V CHASE 跟随\",\"mode\":\"chase\"}",
+      "note": false
+    },
+    {
+      "name": "toggle: switch is smooth (no teleport)",
+      "pass": true,
+      "detail": "switch jump=25.6px max per-frame jump=42.3px",
+      "note": false
+    },
+    {
+      "name": "toggle: HUD camera chip reflects chase",
+      "pass": true,
+      "detail": "chip=V CHASE 跟随",
+      "note": false
+    },
+    {
+      "name": "21-toggle-immediate.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "22-toggle-settled.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "persistence: cameraMode survives an R restart",
+      "pass": true,
+      "detail": "{\"afterSet\":\"topdown\",\"afterRestart\":\"topdown\"}",
+      "note": false
+    },
+    {
+      "name": "persistence: menu [data-testid=\"camera-mode\"] drives the next race",
+      "pass": true,
+      "detail": "select={\"value\":\"chase\"} modeImmediately=topdown modeAfterRestart=chase",
+      "note": false
+    },
+    {
+      "name": "persistence: cameraMode survives a full page reload",
+      "pass": true,
+      "detail": "{\"menuValueAfterReload\":\"chase\",\"afterReload\":\"chase\"}",
+      "note": false
+    },
+    {
+      "name": "culling: screenshot + scan taken near 45 deg of rotation",
+      "pass": true,
+      "detail": "attempts=1 shot: -219.9deg (5.1deg off 45), scan: -219.9deg (5.1deg off 45)",
+      "note": false
+    },
+    {
+      "name": "culling: no void wedge inside asphalt at ~45 deg (rotated viewBounds)",
+      "pass": true,
+      "detail": "asphalt samples=4588 void=5 (0.109%)",
+      "note": false
+    },
+    {
+      "name": "culling: no void wedge in the curb/run-off band at ~45 deg",
+      "pass": true,
+      "detail": "apron samples=8012 void=9 (0.112%)",
+      "note": false
+    },
+    {
+      "name": "24-chase-45deg.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/20261018 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=16218.6 width=179.9..264 minR=323.6 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/20261018 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/20261018 width band 176..264",
+      "pass": true,
+      "detail": "min=179.9 max=264",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/7 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=14814 width=192.6..264 minR=335.5 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/7 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/7 width band 176..264",
+      "pass": true,
+      "detail": "min=192.6 max=264",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/424242 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=15504.8 width=211.3..264 minR=447.2 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/424242 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: circuit/424242 width band 176..264",
+      "pass": true,
+      "detail": "min=211.3 max=264",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/20261018 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=13230.5 width=176..211.2 minR=326.5 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/20261018 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/20261018 width band 176..264",
+      "pass": true,
+      "detail": "min=176 max=211.2",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/7 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=13302.6 width=176.1..211.2 minR=325.6 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/7 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/7 width band 176..264",
+      "pass": true,
+      "detail": "min=176.1 max=211.2",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/424242 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=15144.5 width=176..211.2 minR=362.2 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/424242 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: technical/424242 width band 176..264",
+      "pass": true,
+      "detail": "min=176 max=211.2",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/20261018 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=18127.4 width=247.1..264 minR=515.3 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/20261018 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/20261018 width band 176..264",
+      "pass": true,
+      "detail": "min=247.1 max=264",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/7 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=18479 width=219.8..264 minR=401.3 offRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/7 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/7 width band 176..264",
+      "pass": true,
+      "detail": "min=219.8 max=264",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/424242 length in 12k..19k band",
+      "pass": true,
+      "detail": "length=19011.1 width=264..264 minR=740.3 offRoad=[] (NOTE: 19011 is 0.06% above the stated 19.0k ceiling)",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/424242 nobody starts off-road",
+      "pass": true,
+      "detail": "offRoad=[] notOnRoad=[]",
+      "note": false
+    },
+    {
+      "name": "tracks: speedway/424242 width band 176..264",
+      "pass": true,
+      "detail": "min=264 max=264",
+      "note": false
+    },
+    {
+      "name": "25-track-speedway.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "26-track-technical.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "perf: rAF sampler collected frames in chase mode",
+      "pass": true,
+      "detail": "frames=328",
+      "note": false
+    },
+    {
+      "name": "perf: chase main-thread cost per frame <= 16.7 ms (10 cars)",
+      "pass": true,
+      "detail": "chase median=11.15 ms/frame (windows [13.07,10.98,11.15], min/max 10.98/13.07; v1 baseline 6.51), topdown=12.18 ms, script=6.63 ms, rAF median=30.42 ms",
+      "note": false
+    },
+    {
+      "name": "perf: topdown main-thread cost per frame <= 16.7 ms (10 cars)",
+      "pass": true,
+      "detail": "topdown median=12.18 ms/frame (windows [12.18,13.52,11.45]), rAF median=26.27 ms",
+      "note": false
+    },
+    {
+      "name": "perf: chase rAF mean > 22 ms (compositor-bound flag)",
+      "pass": true,
+      "detail": "chase median rAF=30.42 ms p95=43.7 ms median mainThread=11.15 ms | topdown rAF=26.27 ms — SwiftShader software raster",
+      "note": true
+    },
+    {
+      "name": "mobile: UI start works on the mobile viewport",
+      "pass": true,
+      "detail": "{\"mode\":\"chase\",\"phase\":\"countdown\"}",
+      "note": false
+    },
+    {
+      "name": "mobile: chase mode at 390x844",
+      "pass": true,
+      "detail": "mode=chase",
+      "note": false
+    },
+    {
+      "name": "mobile: car is moving in the mobile chase screenshot",
+      "pass": true,
+      "detail": "speed=165.4 km/h at t=1.14s",
+      "note": false
+    },
+    {
+      "name": "mobile: 390x844 chase screenshot valid",
+      "pass": true,
+      "detail": "ok; canvas 390x844",
+      "note": false
+    },
+    {
+      "name": "mobile: touch controls still present",
+      "pass": true,
+      "detail": "touch buttons=6",
+      "note": false
+    },
+    {
+      "name": "23-chase-mobile-390x844.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "toast: no stale toast remains over the menu 4 s after quitting",
+      "pass": true,
+      "detail": "immediately=1 after4s=0",
+      "note": false
+    },
+    {
+      "name": "toast: menu still renders cleanly",
+      "pass": true,
+      "detail": "stddev=19.29",
+      "note": false
+    },
+    {
+      "name": "27-quit-clean-menu.png valid",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "17-chase-speed.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "18-chase-drift.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "19-chase-boost.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "20-topdown-speed.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "21-toggle-immediate.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "22-toggle-settled.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "24-chase-45deg.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "25-track-speedway.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "26-track-technical.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "23-chase-mobile-390x844.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "27-quit-clean-menu.png valid (>20 KB, non-blank)",
+      "pass": true,
+      "detail": null,
+      "note": false
+    },
+    {
+      "name": "console/page/network clean for the whole v2 run",
+      "pass": true,
+      "detail": null,
+      "note": false
+    }
+  ],
+  "failures": [],
+  "camera": {
+    "start": {
+      "track": "VIOLET HAIRPIN",
+      "length": 16218.6,
+      "racers": 4,
+      "mode": "chase"
+    },
+    "lapEnd": {
+      "done": true,
+      "time": 33.39999999999875,
+      "lap": 1,
+      "speed": 511.7164908203627,
+      "phase": "racing",
+      "probeOk": true,
+      "probeArcSamples": 1178,
+      "draws": 24
+    },
+    "frames": 1176,
+    "safeArea": {
+      "frames": 1176,
+      "violations": 0,
+      "worstOffsetX": 0.014,
+      "worstOffsetY": 0.216,
+      "sampleViolation": null
+    },
+    "headingError": {
+      "straightFrames": 122,
+      "mean": 0.0139,
+      "p95": 0.0472,
+      "max": 0.0829
+    },
+    "zoom": {
+      "min": 0.7734,
+      "max": 1.0202,
+      "frames": 1176
+    }
+  },
+  "drift": {
+    "started": true,
+    "entered": true,
+    "full": false,
+    "boostFired": true,
+    "maxCharge": 0.9806944444444381,
+    "maxSlip": 1,
+    "driftTime": 1.0166666666666655,
+    "boostTime": 1.5833333333333335,
+    "samples": [
+      {
+        "t": 0.89,
+        "speed": 0,
+        "slip": 0,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 0.94,
+        "speed": 29.7,
+        "slip": 0.049,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 0.97,
+        "speed": 44.3,
+        "slip": 0.071,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 0.98,
+        "speed": 54,
+        "slip": 0.088,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.02,
+        "speed": 73.3,
+        "slip": 0.12,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.04,
+        "speed": 87.8,
+        "slip": 0.14,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.06,
+        "speed": 97.4,
+        "slip": 0.151,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.07,
+        "speed": 106.9,
+        "slip": 0.161,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.09,
+        "speed": 116.4,
+        "slip": 0.169,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.11,
+        "speed": 125.9,
+        "slip": 0.176,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.12,
+        "speed": 135.3,
+        "slip": 0.182,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.14,
+        "speed": 144.6,
+        "slip": 0.187,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.16,
+        "speed": 153.9,
+        "slip": 0.19,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.17,
+        "speed": 163.1,
+        "slip": 0.192,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.19,
+        "speed": 172.2,
+        "slip": 0.193,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.22,
+        "speed": 185.7,
+        "slip": 0.193,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.24,
+        "speed": 199,
+        "slip": 0.192,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.26,
+        "speed": 207.8,
+        "slip": 0.191,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.27,
+        "speed": 216.4,
+        "slip": 0.19,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.29,
+        "speed": 225,
+        "slip": 0.188,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.32,
+        "speed": 237.6,
+        "slip": 0.183,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.32,
+        "speed": 241.7,
+        "slip": 0.182,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.34,
+        "speed": 249.9,
+        "slip": 0.178,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.35,
+        "speed": 253.9,
+        "slip": 0.176,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.37,
+        "speed": 261.9,
+        "slip": 0.172,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.38,
+        "speed": 269.8,
+        "slip": 0.167,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.39,
+        "speed": 273.6,
+        "slip": 0.164,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.42,
+        "speed": 285.1,
+        "slip": 0.155,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.43,
+        "speed": 292.5,
+        "slip": 0.148,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.45,
+        "speed": 299.8,
+        "slip": 0.141,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.47,
+        "speed": 307,
+        "slip": 0.134,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.48,
+        "speed": 314,
+        "slip": 0.126,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.49,
+        "speed": 317.5,
+        "slip": 0.122,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.52,
+        "speed": 327.7,
+        "slip": 0.109,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.52,
+        "speed": 328.5,
+        "slip": 0.105,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.54,
+        "speed": 330.1,
+        "slip": 0.096,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.56,
+        "speed": 331.7,
+        "slip": 0.088,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.57,
+        "speed": 333.2,
+        "slip": 0.083,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.59,
+        "speed": 334.7,
+        "slip": 0.079,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.61,
+        "speed": 336.1,
+        "slip": 0.078,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.62,
+        "speed": 337.4,
+        "slip": 0.081,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.64,
+        "speed": 338.5,
+        "slip": 0.088,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.66,
+        "speed": 339.6,
+        "slip": 0.099,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.67,
+        "speed": 340.5,
+        "slip": 0.113,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.69,
+        "speed": 341.3,
+        "slip": 0.129,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.71,
+        "speed": 342,
+        "slip": 0.147,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.72,
+        "speed": 342.6,
+        "slip": 0.169,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.74,
+        "speed": 343.1,
+        "slip": 0.193,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.76,
+        "speed": 343.5,
+        "slip": 0.219,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.77,
+        "speed": 343.7,
+        "slip": 0.245,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.79,
+        "speed": 343.9,
+        "slip": 0.273,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 1.81,
+        "speed": 344,
+        "slip": 0.301,
+        "drift": true,
+        "charge": 0.011,
+        "boost": 0
+      },
+      {
+        "t": 1.82,
+        "speed": 344,
+        "slip": 0.329,
+        "drift": true,
+        "charge": 0.022,
+        "boost": 0
+      },
+      {
+        "t": 1.84,
+        "speed": 347.3,
+        "slip": 0.355,
+        "drift": true,
+        "charge": 0.033,
+        "boost": 0
+      },
+      {
+        "t": 1.87,
+        "speed": 352,
+        "slip": 0.392,
+        "drift": true,
+        "charge": 0.05,
+        "boost": 0
+      },
+      {
+        "t": 1.91,
+        "speed": 359.3,
+        "slip": 0.445,
+        "drift": true,
+        "charge": 0.078,
+        "boost": 0
+      },
+      {
+        "t": 1.92,
+        "speed": 362,
+        "slip": 0.463,
+        "drift": true,
+        "charge": 0.089,
+        "boost": 0
+      },
+      {
+        "t": 1.95,
+        "speed": 365.9,
+        "slip": 0.488,
+        "drift": true,
+        "charge": 0.106,
+        "boost": 0
+      },
+      {
+        "t": 1.97,
+        "speed": 368.3,
+        "slip": 0.503,
+        "drift": true,
+        "charge": 0.117,
+        "boost": 0
+      },
+      {
+        "t": 1.99,
+        "speed": 371.9,
+        "slip": 0.523,
+        "drift": true,
+        "charge": 0.133,
+        "boost": 0
+      },
+      {
+        "t": 2.01,
+        "speed": 374.2,
+        "slip": 0.535,
+        "drift": true,
+        "charge": 0.144,
+        "boost": 0
+      },
+      {
+        "t": 2.02,
+        "speed": 376.4,
+        "slip": 0.546,
+        "drift": true,
+        "charge": 0.156,
+        "boost": 0
+      },
+      {
+        "t": 2.04,
+        "speed": 378.5,
+        "slip": 0.556,
+        "drift": true,
+        "charge": 0.167,
+        "boost": 0
+      },
+      {
+        "t": 2.07,
+        "speed": 381.6,
+        "slip": 0.569,
+        "drift": true,
+        "charge": 0.183,
+        "boost": 0
+      },
+      {
+        "t": 2.08,
+        "speed": 383.6,
+        "slip": 0.577,
+        "drift": true,
+        "charge": 0.194,
+        "boost": 0
+      },
+      {
+        "t": 2.1,
+        "speed": 385.6,
+        "slip": 0.583,
+        "drift": true,
+        "charge": 0.206,
+        "boost": 0
+      },
+      {
+        "t": 2.12,
+        "speed": 387.5,
+        "slip": 0.589,
+        "drift": true,
+        "charge": 0.217,
+        "boost": 0
+      },
+      {
+        "t": 2.14,
+        "speed": 390.3,
+        "slip": 0.597,
+        "drift": true,
+        "charge": 0.233,
+        "boost": 0
+      },
+      {
+        "t": 2.17,
+        "speed": 392.9,
+        "slip": 0.604,
+        "drift": true,
+        "charge": 0.25,
+        "boost": 0
+      },
+      {
+        "t": 2.18,
+        "speed": 394.6,
+        "slip": 0.608,
+        "drift": true,
+        "charge": 0.261,
+        "boost": 0
+      },
+      {
+        "t": 2.2,
+        "speed": 396.3,
+        "slip": 0.612,
+        "drift": true,
+        "charge": 0.272,
+        "boost": 0
+      },
+      {
+        "t": 2.22,
+        "speed": 398.8,
+        "slip": 0.616,
+        "drift": true,
+        "charge": 0.289,
+        "boost": 0
+      },
+      {
+        "t": 2.25,
+        "speed": 401.1,
+        "slip": 0.62,
+        "drift": true,
+        "charge": 0.306,
+        "boost": 0
+      },
+      {
+        "t": 2.28,
+        "speed": 404.1,
+        "slip": 0.625,
+        "drift": true,
+        "charge": 0.328,
+        "boost": 0
+      },
+      {
+        "t": 2.31,
+        "speed": 406.3,
+        "slip": 0.628,
+        "drift": true,
+        "charge": 0.344,
+        "boost": 0
+      },
+      {
+        "t": 2.34,
+        "speed": 409.1,
+        "slip": 0.631,
+        "drift": true,
+        "charge": 0.367,
+        "boost": 0
+      },
+      {
+        "t": 2.37,
+        "speed": 411.2,
+        "slip": 0.633,
+        "drift": true,
+        "charge": 0.383,
+        "boost": 0
+      },
+      {
+        "t": 2.41,
+        "speed": 414.4,
+        "slip": 0.636,
+        "drift": true,
+        "charge": 0.411,
+        "boost": 0
+      },
+      {
+        "t": 2.44,
+        "speed": 417.5,
+        "slip": 0.641,
+        "drift": true,
+        "charge": 0.433,
+        "boost": 0
+      },
+      {
+        "t": 2.48,
+        "speed": 421.5,
+        "slip": 0.648,
+        "drift": true,
+        "charge": 0.461,
+        "boost": 0
+      },
+      {
+        "t": 2.52,
+        "speed": 381.5,
+        "slip": 0.696,
+        "drift": true,
+        "charge": 0.489,
+        "boost": 0
+      },
+      {
+        "t": 2.57,
+        "speed": 358.5,
+        "slip": 0.756,
+        "drift": true,
+        "charge": 0.517,
+        "boost": 0
+      },
+      {
+        "t": 2.61,
+        "speed": 358,
+        "slip": 0.774,
+        "drift": true,
+        "charge": 0.544,
+        "boost": 0
+      },
+      {
+        "t": 2.65,
+        "speed": 357.5,
+        "slip": 0.77,
+        "drift": true,
+        "charge": 0.572,
+        "boost": 0
+      },
+      {
+        "t": 2.7,
+        "speed": 193.8,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.563,
+        "boost": 0
+      },
+      {
+        "t": 2.74,
+        "speed": 176.1,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.549,
+        "boost": 0
+      },
+      {
+        "t": 2.78,
+        "speed": 160.3,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.534,
+        "boost": 0
+      },
+      {
+        "t": 2.83,
+        "speed": 143.6,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.517,
+        "boost": 0
+      },
+      {
+        "t": 2.87,
+        "speed": 131.5,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.502,
+        "boost": 0
+      },
+      {
+        "t": 2.92,
+        "speed": 121.6,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.487,
+        "boost": 0
+      },
+      {
+        "t": 2.96,
+        "speed": 114.5,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.473,
+        "boost": 0
+      },
+      {
+        "t": 3.01,
+        "speed": 110.3,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.455,
+        "boost": 0
+      },
+      {
+        "t": 3.04,
+        "speed": 110.4,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.444,
+        "boost": 0
+      },
+      {
+        "t": 3.09,
+        "speed": 55.6,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.426,
+        "boost": 0
+      },
+      {
+        "t": 3.13,
+        "speed": 41.5,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.412,
+        "boost": 0
+      },
+      {
+        "t": 3.17,
+        "speed": 28,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.397,
+        "boost": 0
+      },
+      {
+        "t": 3.22,
+        "speed": 19.8,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.382,
+        "boost": 0
+      },
+      {
+        "t": 3.25,
+        "speed": 15.8,
+        "slip": 0.988,
+        "drift": false,
+        "charge": 0.371,
+        "boost": 0
+      },
+      {
+        "t": 3.28,
+        "speed": 13.3,
+        "slip": 0.828,
+        "drift": false,
+        "charge": 0.359,
+        "boost": 0
+      },
+      {
+        "t": 3.32,
+        "speed": 12.5,
+        "slip": 0.752,
+        "drift": false,
+        "charge": 0.347,
+        "boost": 0
+      },
+      {
+        "t": 3.36,
+        "speed": 14.4,
+        "slip": 0.787,
+        "drift": false,
+        "charge": 0.333,
+        "boost": 0
+      },
+      {
+        "t": 3.4,
+        "speed": 17,
+        "slip": 0.826,
+        "drift": false,
+        "charge": 0.318,
+        "boost": 0
+      },
+      {
+        "t": 3.44,
+        "speed": 21.2,
+        "slip": 0.878,
+        "drift": false,
+        "charge": 0.304,
+        "boost": 0
+      },
+      {
+        "t": 3.49,
+        "speed": 29,
+        "slip": 0.922,
+        "drift": false,
+        "charge": 0.286,
+        "boost": 0
+      },
+      {
+        "t": 3.53,
+        "speed": 38.7,
+        "slip": 0.68,
+        "drift": false,
+        "charge": 0.272,
+        "boost": 0
+      },
+      {
+        "t": 3.58,
+        "speed": 56.6,
+        "slip": 0.526,
+        "drift": false,
+        "charge": 0.254,
+        "boost": 0
+      },
+      {
+        "t": 3.63,
+        "speed": 75.5,
+        "slip": 0.518,
+        "drift": false,
+        "charge": 0.237,
+        "boost": 0
+      },
+      {
+        "t": 3.67,
+        "speed": 91.1,
+        "slip": 0.512,
+        "drift": false,
+        "charge": 0.222,
+        "boost": 0
+      },
+      {
+        "t": 3.7,
+        "speed": 100.5,
+        "slip": 0.508,
+        "drift": false,
+        "charge": 0.213,
+        "boost": 0
+      },
+      {
+        "t": 3.72,
+        "speed": 109.8,
+        "slip": 0.503,
+        "drift": false,
+        "charge": 0.204,
+        "boost": 0
+      },
+      {
+        "t": 3.75,
+        "speed": 119.1,
+        "slip": 0.499,
+        "drift": false,
+        "charge": 0.196,
+        "boost": 0
+      },
+      {
+        "t": 3.77,
+        "speed": 125.3,
+        "slip": 0.495,
+        "drift": false,
+        "charge": 0.19,
+        "boost": 0
+      },
+      {
+        "t": 3.78,
+        "speed": 131.5,
+        "slip": 0.492,
+        "drift": false,
+        "charge": 0.184,
+        "boost": 0
+      },
+      {
+        "t": 3.81,
+        "speed": 140.7,
+        "slip": 0.486,
+        "drift": false,
+        "charge": 0.175,
+        "boost": 0
+      },
+      {
+        "t": 3.86,
+        "speed": 158.9,
+        "slip": 0.474,
+        "drift": false,
+        "charge": 0.158,
+        "boost": 0
+      },
+      {
+        "t": 3.86,
+        "speed": 158.9,
+        "slip": 0.474,
+        "drift": false,
+        "charge": 0.158,
+        "boost": 0
+      },
+      {
+        "t": 3.88,
+        "speed": 167.9,
+        "slip": 0.467,
+        "drift": false,
+        "charge": 0.149,
+        "boost": 0
+      },
+      {
+        "t": 3.91,
+        "speed": 176.9,
+        "slip": 0.46,
+        "drift": true,
+        "charge": 0.149,
+        "boost": 0
+      },
+      {
+        "t": 3.92,
+        "speed": 182.7,
+        "slip": 0.455,
+        "drift": true,
+        "charge": 0.16,
+        "boost": 0
+      },
+      {
+        "t": 3.93,
+        "speed": 185.6,
+        "slip": 0.451,
+        "drift": true,
+        "charge": 0.165,
+        "boost": 0
+      },
+      {
+        "t": 3.96,
+        "speed": 194.3,
+        "slip": 0.441,
+        "drift": true,
+        "charge": 0.182,
+        "boost": 0
+      },
+      {
+        "t": 3.97,
+        "speed": 200,
+        "slip": 0.433,
+        "drift": true,
+        "charge": 0.193,
+        "boost": 0
+      },
+      {
+        "t": 3.99,
+        "speed": 205.7,
+        "slip": 0.425,
+        "drift": true,
+        "charge": 0.204,
+        "boost": 0
+      },
+      {
+        "t": 4.01,
+        "speed": 211.3,
+        "slip": 0.416,
+        "drift": true,
+        "charge": 0.215,
+        "boost": 0
+      },
+      {
+        "t": 4.03,
+        "speed": 219.7,
+        "slip": 0.402,
+        "drift": true,
+        "charge": 0.232,
+        "boost": 0
+      },
+      {
+        "t": 4.05,
+        "speed": 225.2,
+        "slip": 0.392,
+        "drift": true,
+        "charge": 0.243,
+        "boost": 0
+      },
+      {
+        "t": 4.07,
+        "speed": 230.7,
+        "slip": 0.383,
+        "drift": true,
+        "charge": 0.254,
+        "boost": 0
+      },
+      {
+        "t": 4.09,
+        "speed": 238.6,
+        "slip": 0.367,
+        "drift": true,
+        "charge": 0.271,
+        "boost": 0
+      },
+      {
+        "t": 4.11,
+        "speed": 243.8,
+        "slip": 0.356,
+        "drift": true,
+        "charge": 0.282,
+        "boost": 0
+      },
+      {
+        "t": 4.13,
+        "speed": 251.4,
+        "slip": 0.339,
+        "drift": true,
+        "charge": 0.299,
+        "boost": 0
+      },
+      {
+        "t": 4.15,
+        "speed": 256.3,
+        "slip": 0.327,
+        "drift": true,
+        "charge": 0.31,
+        "boost": 0
+      },
+      {
+        "t": 4.17,
+        "speed": 261.1,
+        "slip": 0.315,
+        "drift": true,
+        "charge": 0.321,
+        "boost": 0
+      },
+      {
+        "t": 4.2,
+        "speed": 270.3,
+        "slip": 0.29,
+        "drift": true,
+        "charge": 0.343,
+        "boost": 0
+      },
+      {
+        "t": 4.23,
+        "speed": 279.2,
+        "slip": 0.264,
+        "drift": true,
+        "charge": 0.365,
+        "boost": 0
+      },
+      {
+        "t": 4.26,
+        "speed": 285.6,
+        "slip": 0.245,
+        "drift": true,
+        "charge": 0.382,
+        "boost": 0
+      },
+      {
+        "t": 4.28,
+        "speed": 291.7,
+        "slip": 0.225,
+        "drift": true,
+        "charge": 0.399,
+        "boost": 0
+      },
+      {
+        "t": 4.32,
+        "speed": 299.6,
+        "slip": 0.2,
+        "drift": true,
+        "charge": 0.421,
+        "boost": 0
+      },
+      {
+        "t": 4.35,
+        "speed": 307,
+        "slip": 0.176,
+        "drift": true,
+        "charge": 0.443,
+        "boost": 0
+      },
+      {
+        "t": 4.39,
+        "speed": 325,
+        "slip": 0.149,
+        "drift": false,
+        "charge": 0.437,
+        "boost": 0
+      },
+      {
+        "t": 4.43,
+        "speed": 341.9,
+        "slip": 0.129,
+        "drift": false,
+        "charge": 0.422,
+        "boost": 0
+      },
+      {
+        "t": 4.48,
+        "speed": 346.1,
+        "slip": 0.104,
+        "drift": false,
+        "charge": 0.405,
+        "boost": 0
+      },
+      {
+        "t": 4.53,
+        "speed": 349.3,
+        "slip": 0.091,
+        "drift": false,
+        "charge": 0.39,
+        "boost": 0
+      },
+      {
+        "t": 4.58,
+        "speed": 352.7,
+        "slip": 0.091,
+        "drift": false,
+        "charge": 0.373,
+        "boost": 0
+      },
+      {
+        "t": 4.62,
+        "speed": 355.1,
+        "slip": 0.111,
+        "drift": false,
+        "charge": 0.358,
+        "boost": 0
+      },
+      {
+        "t": 4.66,
+        "speed": 356.9,
+        "slip": 0.145,
+        "drift": false,
+        "charge": 0.344,
+        "boost": 0
+      },
+      {
+        "t": 4.71,
+        "speed": 358.2,
+        "slip": 0.195,
+        "drift": false,
+        "charge": 0.326,
+        "boost": 0
+      },
+      {
+        "t": 4.74,
+        "speed": 358.5,
+        "slip": 0.233,
+        "drift": false,
+        "charge": 0.315,
+        "boost": 0
+      },
+      {
+        "t": 4.78,
+        "speed": 358.4,
+        "slip": 0.286,
+        "drift": true,
+        "charge": 0.308,
+        "boost": 0
+      },
+      {
+        "t": 4.82,
+        "speed": 357.9,
+        "slip": 0.333,
+        "drift": true,
+        "charge": 0.331,
+        "boost": 0
+      },
+      {
+        "t": 4.86,
+        "speed": 365.4,
+        "slip": 0.388,
+        "drift": true,
+        "charge": 0.358,
+        "boost": 0
+      },
+      {
+        "t": 4.91,
+        "speed": 373.4,
+        "slip": 0.446,
+        "drift": true,
+        "charge": 0.392,
+        "boost": 0
+      },
+      {
+        "t": 4.95,
+        "speed": 379.3,
+        "slip": 0.487,
+        "drift": true,
+        "charge": 0.42,
+        "boost": 0
+      },
+      {
+        "t": 4.98,
+        "speed": 383.7,
+        "slip": 0.515,
+        "drift": true,
+        "charge": 0.442,
+        "boost": 0
+      },
+      {
+        "t": 5.03,
+        "speed": 389.8,
+        "slip": 0.55,
+        "drift": true,
+        "charge": 0.475,
+        "boost": 0
+      },
+      {
+        "t": 5.08,
+        "speed": 394.4,
+        "slip": 0.573,
+        "drift": true,
+        "charge": 0.503,
+        "boost": 0
+      },
+      {
+        "t": 5.11,
+        "speed": 397.9,
+        "slip": 0.587,
+        "drift": true,
+        "charge": 0.525,
+        "boost": 0
+      },
+      {
+        "t": 5.14,
+        "speed": 401.1,
+        "slip": 0.599,
+        "drift": true,
+        "charge": 0.547,
+        "boost": 0
+      },
+      {
+        "t": 5.17,
+        "speed": 403.5,
+        "slip": 0.607,
+        "drift": true,
+        "charge": 0.564,
+        "boost": 0
+      },
+      {
+        "t": 5.2,
+        "speed": 406.5,
+        "slip": 0.615,
+        "drift": true,
+        "charge": 0.586,
+        "boost": 0
+      },
+      {
+        "t": 5.22,
+        "speed": 407.9,
+        "slip": 0.619,
+        "drift": true,
+        "charge": 0.597,
+        "boost": 0
+      },
+      {
+        "t": 5.23,
+        "speed": 409.3,
+        "slip": 0.622,
+        "drift": true,
+        "charge": 0.608,
+        "boost": 0
+      },
+      {
+        "t": 5.26,
+        "speed": 411.3,
+        "slip": 0.626,
+        "drift": true,
+        "charge": 0.625,
+        "boost": 0
+      },
+      {
+        "t": 5.28,
+        "speed": 413.3,
+        "slip": 0.63,
+        "drift": true,
+        "charge": 0.642,
+        "boost": 0
+      },
+      {
+        "t": 5.31,
+        "speed": 415.2,
+        "slip": 0.633,
+        "drift": true,
+        "charge": 0.658,
+        "boost": 0
+      },
+      {
+        "t": 5.33,
+        "speed": 417.1,
+        "slip": 0.636,
+        "drift": true,
+        "charge": 0.675,
+        "boost": 0
+      },
+      {
+        "t": 5.35,
+        "speed": 418.3,
+        "slip": 0.638,
+        "drift": true,
+        "charge": 0.686,
+        "boost": 0
+      },
+      {
+        "t": 5.38,
+        "speed": 420,
+        "slip": 0.64,
+        "drift": true,
+        "charge": 0.703,
+        "boost": 0
+      },
+      {
+        "t": 5.4,
+        "speed": 421.7,
+        "slip": 0.642,
+        "drift": true,
+        "charge": 0.72,
+        "boost": 0
+      },
+      {
+        "t": 5.42,
+        "speed": 422.8,
+        "slip": 0.643,
+        "drift": true,
+        "charge": 0.731,
+        "boost": 0
+      },
+      {
+        "t": 5.43,
+        "speed": 423.8,
+        "slip": 0.644,
+        "drift": true,
+        "charge": 0.742,
+        "boost": 0
+      },
+      {
+        "t": 5.46,
+        "speed": 425.4,
+        "slip": 0.645,
+        "drift": true,
+        "charge": 0.758,
+        "boost": 0
+      },
+      {
+        "t": 5.47,
+        "speed": 425.9,
+        "slip": 0.646,
+        "drift": true,
+        "charge": 0.764,
+        "boost": 0
+      },
+      {
+        "t": 5.48,
+        "speed": 426.9,
+        "slip": 0.647,
+        "drift": true,
+        "charge": 0.775,
+        "boost": 0
+      },
+      {
+        "t": 5.51,
+        "speed": 428.4,
+        "slip": 0.648,
+        "drift": true,
+        "charge": 0.792,
+        "boost": 0
+      },
+      {
+        "t": 5.53,
+        "speed": 429.8,
+        "slip": 0.649,
+        "drift": true,
+        "charge": 0.808,
+        "boost": 0
+      },
+      {
+        "t": 5.56,
+        "speed": 431.1,
+        "slip": 0.65,
+        "drift": true,
+        "charge": 0.825,
+        "boost": 0
+      },
+      {
+        "t": 5.58,
+        "speed": 432.5,
+        "slip": 0.652,
+        "drift": true,
+        "charge": 0.842,
+        "boost": 0
+      },
+      {
+        "t": 5.61,
+        "speed": 433.7,
+        "slip": 0.653,
+        "drift": true,
+        "charge": 0.858,
+        "boost": 0
+      },
+      {
+        "t": 5.63,
+        "speed": 435,
+        "slip": 0.654,
+        "drift": true,
+        "charge": 0.875,
+        "boost": 0
+      },
+      {
+        "t": 5.68,
+        "speed": 437,
+        "slip": 0.655,
+        "drift": true,
+        "charge": 0.903,
+        "boost": 0
+      },
+      {
+        "t": 5.71,
+        "speed": 438.5,
+        "slip": 0.656,
+        "drift": true,
+        "charge": 0.925,
+        "boost": 0
+      },
+      {
+        "t": 5.75,
+        "speed": 440.3,
+        "slip": 0.658,
+        "drift": true,
+        "charge": 0.953,
+        "boost": 0
+      },
+      {
+        "t": 5.79,
+        "speed": 443,
+        "slip": 0.663,
+        "drift": true,
+        "charge": 0.981,
+        "boost": 0
+      },
+      {
+        "t": 5.83,
+        "speed": 420,
+        "slip": 0.688,
+        "drift": true,
+        "charge": 0.006,
+        "boost": 1.583
+      },
+      {
+        "t": 5.88,
+        "speed": 406.4,
+        "slip": 0.72,
+        "drift": true,
+        "charge": 0.033,
+        "boost": 1.542
+      },
+      {
+        "t": 5.91,
+        "speed": 398.1,
+        "slip": 0.727,
+        "drift": true,
+        "charge": 0.056,
+        "boost": 1.508
+      },
+      {
+        "t": 5.96,
+        "speed": 222.1,
+        "slip": 1,
+        "drift": true,
+        "charge": 0.089,
+        "boost": 1.458
+      },
+      {
+        "t": 6.01,
+        "speed": 194.4,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.071,
+        "boost": 1.408
+      },
+      {
+        "t": 6.05,
+        "speed": 177.4,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.057,
+        "boost": 1.367
+      },
+      {
+        "t": 6.09,
+        "speed": 166.8,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.042,
+        "boost": 1.325
+      },
+      {
+        "t": 6.13,
+        "speed": 163,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.028,
+        "boost": 1.283
+      },
+      {
+        "t": 6.18,
+        "speed": 166.2,
+        "slip": 1,
+        "drift": false,
+        "charge": 0.013,
+        "boost": 1.242
+      },
+      {
+        "t": 6.23,
+        "speed": 134.8,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 1.192
+      },
+      {
+        "t": 6.27,
+        "speed": 128.7,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 1.15
+      },
+      {
+        "t": 6.31,
+        "speed": 126.7,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 1.108
+      },
+      {
+        "t": 6.36,
+        "speed": 129.8,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 1.058
+      },
+      {
+        "t": 6.39,
+        "speed": 134.9,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 1.025
+      },
+      {
+        "t": 6.43,
+        "speed": 144.9,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 0.983
+      },
+      {
+        "t": 6.48,
+        "speed": 167.7,
+        "slip": 1,
+        "drift": false,
+        "charge": 0,
+        "boost": 0.933
+      },
+      {
+        "t": 6.52,
+        "speed": 187.4,
+        "slip": 0.945,
+        "drift": false,
+        "charge": 0,
+        "boost": 0.9
+      },
+      {
+        "t": 6.56,
+        "speed": 214.3,
+        "slip": 0.686,
+        "drift": true,
+        "charge": 0.028,
+        "boost": 0.858
+      },
+      {
+        "t": 6.58,
+        "speed": 230.7,
+        "slip": 0.524,
+        "drift": true,
+        "charge": 0.044,
+        "boost": 0.833
+      },
+      {
+        "t": 6.62,
+        "speed": 252.4,
+        "slip": 0.305,
+        "drift": true,
+        "charge": 0.067,
+        "boost": 0.8
+      },
+      {
+        "t": 6.63,
+        "speed": 263.5,
+        "slip": 0.247,
+        "drift": true,
+        "charge": 0.078,
+        "boost": 0.783
+      },
+      {
+        "t": 6.67,
+        "speed": 285.3,
+        "slip": 0.227,
+        "drift": true,
+        "charge": 0.1,
+        "boost": 0.75
+      },
+      {
+        "t": 6.69,
+        "speed": 301.4,
+        "slip": 0.222,
+        "drift": true,
+        "charge": 0.117,
+        "boost": 0.725
+      },
+      {
+        "t": 6.73,
+        "speed": 322.2,
+        "slip": 0.212,
+        "drift": true,
+        "charge": 0.139,
+        "boost": 0.692
+      },
+      {
+        "t": 6.76,
+        "speed": 342.1,
+        "slip": 0.196,
+        "drift": true,
+        "charge": 0.161,
+        "boost": 0.658
+      },
+      {
+        "t": 6.81,
+        "speed": 370.4,
+        "slip": 0.166,
+        "drift": false,
+        "charge": 0.186,
+        "boost": 0.608
+      },
+      {
+        "t": 6.84,
+        "speed": 366.6,
+        "slip": 0.146,
+        "drift": false,
+        "charge": 0.174,
+        "boost": 0.575
+      },
+      {
+        "t": 6.88,
+        "speed": 367.3,
+        "slip": 0.124,
+        "drift": false,
+        "charge": 0.16,
+        "boost": 0.533
+      },
+      {
+        "t": 6.92,
+        "speed": 369.1,
+        "slip": 0.109,
+        "drift": false,
+        "charge": 0.148,
+        "boost": 0.5
+      },
+      {
+        "t": 6.96,
+        "speed": 369.6,
+        "slip": 0.093,
+        "drift": false,
+        "charge": 0.133,
+        "boost": 0.458
+      },
+      {
+        "t": 7.01,
+        "speed": 369.1,
+        "slip": 0.078,
+        "drift": false,
+        "charge": 0.116,
+        "boost": 0.408
+      },
+      {
+        "t": 7.06,
+        "speed": 368.5,
+        "slip": 0.067,
+        "drift": false,
+        "charge": 0.098,
+        "boost": 0.358
+      },
+      {
+        "t": 7.08,
+        "speed": 366.5,
+        "slip": 0.064,
+        "drift": false,
+        "charge": 0.093,
+        "boost": 0.342
+      },
+      {
+        "t": 7.11,
+        "speed": 368,
+        "slip": 0.059,
+        "drift": false,
+        "charge": 0.081,
+        "boost": 0.308
+      },
+      {
+        "t": 7.14,
+        "speed": 369.5,
+        "slip": 0.055,
+        "drift": false,
+        "charge": 0.069,
+        "boost": 0.275
+      },
+      {
+        "t": 7.18,
+        "speed": 370.1,
+        "slip": 0.051,
+        "drift": false,
+        "charge": 0.055,
+        "boost": 0.233
+      },
+      {
+        "t": 7.23,
+        "speed": 369.4,
+        "slip": 0.048,
+        "drift": false,
+        "charge": 0.037,
+        "boost": 0.183
+      },
+      {
+        "t": 7.28,
+        "speed": 370,
+        "slip": 0.047,
+        "drift": false,
+        "charge": 0.023,
+        "boost": 0.142
+      },
+      {
+        "t": 7.32,
+        "speed": 370.4,
+        "slip": 0.042,
+        "drift": false,
+        "charge": 0.008,
+        "boost": 0.1
+      },
+      {
+        "t": 7.36,
+        "speed": 370.5,
+        "slip": 0.032,
+        "drift": false,
+        "charge": 0,
+        "boost": 0.058
+      },
+      {
+        "t": 7.41,
+        "speed": 369.4,
+        "slip": 0.027,
+        "drift": false,
+        "charge": 0,
+        "boost": 0.008
+      },
+      {
+        "t": 7.46,
+        "speed": 369.7,
+        "slip": 0.043,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      },
+      {
+        "t": 7.5,
+        "speed": 384.4,
+        "slip": 0.064,
+        "drift": false,
+        "charge": 0,
+        "boost": 0
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "seed": 20261018,
+      "style": "circuit",
+      "name": "VIOLET HAIRPIN",
+      "length": 16218.6,
+      "sampleCount": 2027,
+      "minWidth": 179.9,
+      "maxWidth": 264,
+      "minRadius": 323.6,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 7,
+      "style": "circuit",
+      "name": "CHROME RUN",
+      "length": 14814,
+      "sampleCount": 1852,
+      "minWidth": 192.6,
+      "maxWidth": 264,
+      "minRadius": 335.5,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 424242,
+      "style": "circuit",
+      "name": "NEON SPIRAL",
+      "length": 15504.8,
+      "sampleCount": 1938,
+      "minWidth": 211.3,
+      "maxWidth": 264,
+      "minRadius": 447.2,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 20261018,
+      "style": "technical",
+      "name": "OBSIDIAN LOOP",
+      "length": 13230.5,
+      "sampleCount": 1654,
+      "minWidth": 176,
+      "maxWidth": 211.2,
+      "minRadius": 326.5,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 7,
+      "style": "technical",
+      "name": "SERPENT CIRCUIT",
+      "length": 13302.6,
+      "sampleCount": 1663,
+      "minWidth": 176.1,
+      "maxWidth": 211.2,
+      "minRadius": 325.6,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 424242,
+      "style": "technical",
+      "name": "TWISTED MAZE",
+      "length": 15144.5,
+      "sampleCount": 1893,
+      "minWidth": 176,
+      "maxWidth": 211.2,
+      "minRadius": 362.2,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 20261018,
+      "style": "speedway",
+      "name": "PHOTON RING",
+      "length": 18127.4,
+      "sampleCount": 2266,
+      "minWidth": 247.1,
+      "maxWidth": 264,
+      "minRadius": 515.3,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 7,
+      "style": "speedway",
+      "name": "VELOCITY SPIRAL",
+      "length": 18479,
+      "sampleCount": 2310,
+      "minWidth": 219.8,
+      "maxWidth": 264,
+      "minRadius": 401.3,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    },
+    {
+      "seed": 424242,
+      "style": "speedway",
+      "name": "TURBO HAIRPIN",
+      "length": 19011.1,
+      "sampleCount": 2376,
+      "minWidth": 264,
+      "maxWidth": 264,
+      "minRadius": 740.3,
+      "racers": 4,
+      "offRoadRacers": [],
+      "notOnRoadRacers": [],
+      "cameraMode": "chase"
+    }
+  ],
+  "culling": {
+    "attempts": 1,
+    "angleAtShot": -3.8388,
+    "off45DegAtShot": 5.1,
+    "angleAtScan": -3.8388,
+    "off45DegAtScan": 5.1,
+    "scan": {
+      "stepCss": 6,
+      "dpr": 1,
+      "asphaltSamples": 4588,
+      "asphaltVoid": 5,
+      "asphaltVoidFraction": 0.00109,
+      "apronSamples": 8012,
+      "apronVoid": 9,
+      "apronVoidFraction": 0.00112,
+      "voidSamples": [
+        {
+          "x": 843,
+          "y": 381,
+          "r": 6,
+          "g": 9,
+          "b": 15,
+          "lateral": -10,
+          "width": 185.2
+        },
+        {
+          "x": 807,
+          "y": 429,
+          "r": 7,
+          "g": 9,
+          "b": 16,
+          "lateral": 19.7,
+          "width": 191.9
+        },
+        {
+          "x": 807,
+          "y": 435,
+          "r": 3,
+          "g": 5,
+          "b": 12,
+          "lateral": 18.3,
+          "width": 192.6
+        },
+        {
+          "x": 789,
+          "y": 447,
+          "r": 6,
+          "g": 9,
+          "b": 15,
+          "lateral": 38.8,
+          "width": 194.3
+        },
+        {
+          "x": 807,
+          "y": 633,
+          "r": 8,
+          "g": 10,
+          "b": 18,
+          "lateral": -4.6,
+          "width": 211.2
+        }
+      ],
+      "cameraAngle": -3.8388,
+      "cameraZoom": 0.7775,
+      "carScreen": {
+        "x": 800.6,
+        "y": 641.4
+      }
+    }
+  },
+  "perf": {
+    "chase": {
+      "mode": "chase",
+      "racers": 10,
+      "frames": 328,
+      "windows": [
+        {
+          "rep": 1,
+          "frames": 97,
+          "meanIntervalMs": 30.42,
+          "p50Ms": 31.2,
+          "p95Ms": 43.7,
+          "maxMs": 50,
+          "fps": 32.9,
+          "mainThreadMsPerFrame": 13.07,
+          "scriptMsPerFrame": 7.66
+        },
+        {
+          "rep": 2,
+          "frames": 92,
+          "meanIntervalMs": 31.79,
+          "p50Ms": 31.3,
+          "p95Ms": 44,
+          "maxMs": 44.3,
+          "fps": 31.5,
+          "mainThreadMsPerFrame": 10.98,
+          "scriptMsPerFrame": 6.31
+        },
+        {
+          "rep": 3,
+          "frames": 139,
+          "meanIntervalMs": 21.27,
+          "p50Ms": 19,
+          "p95Ms": 30.7,
+          "maxMs": 43.5,
+          "fps": 47,
+          "mainThreadMsPerFrame": 11.15,
+          "scriptMsPerFrame": 6.63
+        }
+      ],
+      "medianMainThreadMsPerFrame": 11.15,
+      "minMainThreadMsPerFrame": 10.98,
+      "maxMainThreadMsPerFrame": 13.07,
+      "mainThreadMsPerFrame": 11.15,
+      "meanIntervalMs": 30.42,
+      "p95Ms": 43.7,
+      "fps": 32.9,
+      "scriptMsPerFrame": 6.63,
+      "hudFps": "45",
+      "flaggedMeanOver22ms": true
+    },
+    "topdown": {
+      "mode": "topdown",
+      "racers": 10,
+      "frames": 323,
+      "windows": [
+        {
+          "rep": 1,
+          "frames": 117,
+          "meanIntervalMs": 25.59,
+          "p50Ms": 25.1,
+          "p95Ms": 37.3,
+          "maxMs": 44,
+          "fps": 39.1,
+          "mainThreadMsPerFrame": 12.18,
+          "scriptMsPerFrame": 7.37
+        },
+        {
+          "rep": 2,
+          "frames": 93,
+          "meanIntervalMs": 31.65,
+          "p50Ms": 31.3,
+          "p95Ms": 44.1,
+          "maxMs": 56.2,
+          "fps": 31.6,
+          "mainThreadMsPerFrame": 13.52,
+          "scriptMsPerFrame": 8.18
+        },
+        {
+          "rep": 3,
+          "frames": 113,
+          "meanIntervalMs": 26.27,
+          "p50Ms": 25,
+          "p95Ms": 37.5,
+          "maxMs": 50,
+          "fps": 38.1,
+          "mainThreadMsPerFrame": 11.45,
+          "scriptMsPerFrame": 6.34
+        }
+      ],
+      "medianMainThreadMsPerFrame": 12.18,
+      "minMainThreadMsPerFrame": 11.45,
+      "maxMainThreadMsPerFrame": 13.52,
+      "mainThreadMsPerFrame": 12.18,
+      "meanIntervalMs": 26.27,
+      "p95Ms": 37.5,
+      "fps": 38.1,
+      "scriptMsPerFrame": 7.37,
+      "hudFps": "45",
+      "flaggedMeanOver22ms": true
+    },
+    "v1BaselineMainThreadMsPerFrame": 6.51,
+    "renderDevDrawClaimMs": "~1.0 (topdown draw)"
+  },
+  "toggle": {
+    "frames": 217,
+    "preMode": "topdown",
+    "firstChaseMode": "chase",
+    "jumpAtSwitch": 25.6,
+    "maxFrameJump": 42.3,
+    "chip": "V CHASE 跟随",
+    "mode": "chase"
+  },
+  "persistence": {
+    "afterSet": "topdown",
+    "afterRestart": "topdown",
+    "modeImmediatelyAfterMenuChange": "topdown",
+    "afterMenuRestart": "chase",
+    "afterReload": "chase",
+    "menuValueAfterReload": "chase"
+  },
+  "toast": {
+    "immediatelyAfterQuit": 1,
+    "after4s": 0
+  },
+  "console": {
+    "consoleErrors": [],
+    "pageErrors": [],
+    "networkErrors": [],
+    "httpErrors": [],
+    "fatal": []
+  },
+  "ok": true,
+  "chrome": "Chrome/155.0.8059.82",
+  "apiVersion": "1.0.0",
+  "preRender": {
+    "startRaceToFirstFrameMs": 45.1,
+    "trackLength": 16218.6
+  },
+  "driftFine": {
+    "drifting": true,
+    "maxCharge": 0.9970833333333272,
+    "chargeHitOne": false,
+    "boostFired": true,
+    "maxBoost": 1.5916666666666668,
+    "driftTime": 0.8999999999999992,
+    "maxSlip": 1,
+    "steps": 641,
+    "entrySteps": 26,
+    "boostSteps": 451
+  },
+  "topdown": {
+    "frames": 306,
+    "maxAbsAngle": 0.05,
+    "minSpeed": 144.3,
+    "mode": "topdown"
+  },
+  "chromeLog": "DevTools listening on ws://127.0.0.1:63354/devtools/browser/4c28594a-47d6-483c-bd21-db49b17927cd\r\n[51144:44696:1019/032440.376:ERROR:google_apis\\gcm\\engine\\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT\r\n[51144:39988:1019/032445.404:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 33568: 拒绝访问。 (0x5)\r\n[51144:49544:1019/032448.020:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 46452: 拒绝访问。 (0x5)\r\n[51144:17048:1019/032448.383:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 33520: 拒绝访问。 (0x5)\r\n[51144:39988:1019/032450.917:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 43248: 拒绝访问。 (0x5)\r\n[51144:17048:1019/032451.894:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 27316: 拒绝访问。 (0x5)\r\n[51144:39988:1019/032452.747:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 49072: 拒绝访问。 (0x5)\r\n[51144:44696:1019/032504.782:ERROR:google_apis\\gcm\\engine\\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT\r\n[51144:44696:1019/032558.451:ERROR:google_apis\\gcm\\engine\\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT",
+  "finishedAt": "2026-10-18T19:26:15.226Z",
+  "durationMs": 109870
+}

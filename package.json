@@ -1,0 +1,22 @@
+{
+  "name": "neon-racer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Neon Racer - a zero-dependency top-down arcade racing game for the browser (Vite + TypeScript + Canvas 2D)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "start": "node serve.mjs",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "shoot": "node tools/shoot.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5"
+  }
+}

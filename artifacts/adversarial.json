@@ -1,0 +1,2939 @@
+{
+  "harness": "tools/adversarial.mjs",
+  "startedAt": "2026-10-18T19:00:25.225Z",
+  "viewport": {
+    "width": 1600,
+    "height": 900
+  },
+  "screens": [
+    {
+      "name": "07-responsive-1600x900",
+      "file": "artifacts/07-responsive-1600x900.png",
+      "bytes": 929637,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 19.94,
+        "stddevLuminance": 29.34,
+        "nonDarkFraction": 0.2917,
+        "distinctColors": 190
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": true
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": true
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": true
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": true
+          },
+          {
+            "id": "hud-best",
+            "visible": true
+          },
+          {
+            "id": "hud-last",
+            "visible": true
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": true
+          },
+          {
+            "id": "hud-rev",
+            "visible": true
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": true
+          },
+          {
+            "id": "hud-fps",
+            "visible": true
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "出发 GO! 出发 GO! 出发 GO! P4 /4 圈数 LAP 1/2 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:02.950 比赛计时 RACE 0:04.250 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 ONYX L1 3 NOVA L1 4 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 167 KM/H 档位 GEAR 4 漂移充能 DRIFT CHARGE 0% 草地 GRASS FPS 29",
+        "bodyTextLength": 297,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "09-responsive-390x844-menu",
+      "file": "artifacts/09-responsive-390x844-menu.png",
+      "bytes": 189923,
+      "png": {
+        "width": 390,
+        "height": 844
+      },
+      "canvas": {
+        "backingWidth": 390,
+        "backingHeight": 844,
+        "cssWidth": 390,
+        "cssHeight": 844,
+        "meanLuminance": 14.2,
+        "stddevLuminance": 15.55,
+        "nonDarkFraction": 0.2514,
+        "distinctColors": 105
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": true
+          },
+          {
+            "id": "seed",
+            "visible": true
+          },
+          {
+            "id": "random-seed",
+            "visible": true
+          },
+          {
+            "id": "style",
+            "visible": true
+          },
+          {
+            "id": "laps",
+            "visible": true
+          },
+          {
+            "id": "opponents",
+            "visible": true
+          },
+          {
+            "id": "difficulty",
+            "visible": true
+          },
+          {
+            "id": "car-class",
+            "visible": true
+          },
+          {
+            "id": "camera-mode",
+            "visible": true
+          },
+          {
+            "id": "player-name",
+            "visible": true
+          },
+          {
+            "id": "record-track-name",
+            "visible": true
+          },
+          {
+            "id": "record-track-meta",
+            "visible": true
+          },
+          {
+            "id": "record-best-lap",
+            "visible": true
+          },
+          {
+            "id": "record-best-total",
+            "visible": true
+          },
+          {
+            "id": "record-runs",
+            "visible": true
+          },
+          {
+            "id": "start-race",
+            "visible": true
+          },
+          {
+            "id": "sound-toggle",
+            "visible": true
+          },
+          {
+            "id": "legend-camera",
+            "visible": true
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": false
+          },
+          {
+            "id": "hud-root",
+            "visible": false
+          },
+          {
+            "id": "hud-place",
+            "visible": false
+          },
+          {
+            "id": "hud-lap",
+            "visible": false
+          },
+          {
+            "id": "hud-class",
+            "visible": false
+          },
+          {
+            "id": "hud-camera",
+            "visible": false
+          },
+          {
+            "id": "hud-current",
+            "visible": false
+          },
+          {
+            "id": "hud-time",
+            "visible": false
+          },
+          {
+            "id": "hud-minimap",
+            "visible": false
+          },
+          {
+            "id": "hud-standings",
+            "visible": false
+          },
+          {
+            "id": "hud-best",
+            "visible": false
+          },
+          {
+            "id": "hud-last",
+            "visible": false
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": false
+          },
+          {
+            "id": "hud-rev",
+            "visible": false
+          },
+          {
+            "id": "hud-speed",
+            "visible": false
+          },
+          {
+            "id": "hud-gear",
+            "visible": false
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": false
+          },
+          {
+            "id": "hud-surface",
+            "visible": false
+          },
+          {
+            "id": "hud-fps",
+            "visible": false
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          },
+          {
+            "id": "touch-controls",
+            "visible": false
+          },
+          {
+            "id": "touch-pause",
+            "visible": false
+          }
+        ],
+        "bodyText": "零依赖街机赛车 · ZERO-DEPENDENCY ARCADE RACER NEON RACER 霓虹赛车 · 夜城狂飙 · NIGHT CITY OVERDRIVE 比赛设置 RACE SETUP P1 GRID 赛道种子 TRACK SEED 随机 RANDOM 赛道风格 TRACK STYLE 环道 CIRCUIT 技术赛道 TECHNICAL 高速环 SPEEDWAY 随机 RANDOM 圈数 LAPS 3 对手数量 OPPONENTS 5 难度 DIFFICULTY 新手 ROOKIE 标准 PRO 高手 VETERAN 疯子 INSANE 赛车等级 CAR CLASS BALANCED · 均衡 DRIFTER · 漂移 SPEEDSTER · 疾速 视角 CAMERA 第三人称跟随 CHASE CAM 俯视 NORTH-UP 车手名称 PLAYER NAME 赛道记录 TRACK RECORD SEED 20261018 · CIRCUIT VIOLET HAIRPIN 环道 CIRCUIT · 种子 seed 20261018 最快圈 BEST LAP --:--.-",
+        "bodyTextLength": 862,
+        "viewport": {
+          "width": 390,
+          "height": 844,
+          "dpr": 1
+        },
+        "scrollWidth": 390,
+        "scrollHeight": 844
+      },
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 1,
+        "scrollWidth": 390,
+        "coarsePointer": true
+      }
+    },
+    {
+      "name": "08-responsive-390x844-racing",
+      "file": "artifacts/08-responsive-390x844-racing.png",
+      "bytes": 287303,
+      "png": {
+        "width": 390,
+        "height": 844
+      },
+      "canvas": {
+        "backingWidth": 390,
+        "backingHeight": 844,
+        "cssWidth": 390,
+        "cssHeight": 844,
+        "meanLuminance": 34.01,
+        "stddevLuminance": 37.25,
+        "nonDarkFraction": 0.6554,
+        "distinctColors": 259
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": true
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": false
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": false
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": false
+          },
+          {
+            "id": "hud-best",
+            "visible": false
+          },
+          {
+            "id": "hud-last",
+            "visible": false
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": false
+          },
+          {
+            "id": "hud-rev",
+            "visible": true
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": false
+          },
+          {
+            "id": "hud-fps",
+            "visible": false
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          },
+          {
+            "id": "touch-controls",
+            "visible": true
+          },
+          {
+            "id": "touch-pause",
+            "visible": true
+          }
+        ],
+        "bodyText": "出发 GO! P6 /6 圈数 LAP 1/3 V CHASE 跟随 当前圈 CURRENT LAP 0:02.600 赛道 TRACK 166 KM/H 4 0% ◀ 左 LEFT ▶ 右 RIGHT ▼ 刹车 BRAKE ▲ 油门 GAS ✦ 手刹 DRIFT ❚❚ 暂停 PAUSE",
+        "bodyTextLength": 144,
+        "viewport": {
+          "width": 390,
+          "height": 844,
+          "dpr": 1
+        },
+        "scrollWidth": 390,
+        "scrollHeight": 844
+      },
+      "viewport": {
+        "width": 390,
+        "height": 844,
+        "dpr": 1,
+        "scrollWidth": 390,
+        "coarsePointer": true
+      }
+    },
+    {
+      "name": "10-pause",
+      "file": "artifacts/10-pause.png",
+      "bytes": 453443,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 21.55,
+        "stddevLuminance": 29.72,
+        "nonDarkFraction": 0.3183,
+        "distinctColors": 189
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": true
+          },
+          {
+            "id": "pause-resume",
+            "visible": true
+          },
+          {
+            "id": "pause-restart",
+            "visible": true
+          },
+          {
+            "id": "pause-quit",
+            "visible": true
+          },
+          {
+            "id": "legend-camera",
+            "visible": true
+          },
+          {
+            "id": "sound-toggle",
+            "visible": true
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": false
+          },
+          {
+            "id": "hud-root",
+            "visible": false
+          },
+          {
+            "id": "hud-place",
+            "visible": false
+          },
+          {
+            "id": "hud-lap",
+            "visible": false
+          },
+          {
+            "id": "hud-class",
+            "visible": false
+          },
+          {
+            "id": "hud-camera",
+            "visible": false
+          },
+          {
+            "id": "hud-current",
+            "visible": false
+          },
+          {
+            "id": "hud-time",
+            "visible": false
+          },
+          {
+            "id": "hud-minimap",
+            "visible": false
+          },
+          {
+            "id": "hud-standings",
+            "visible": false
+          },
+          {
+            "id": "hud-best",
+            "visible": false
+          },
+          {
+            "id": "hud-last",
+            "visible": false
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": false
+          },
+          {
+            "id": "hud-rev",
+            "visible": false
+          },
+          {
+            "id": "hud-speed",
+            "visible": false
+          },
+          {
+            "id": "hud-gear",
+            "visible": false
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": false
+          },
+          {
+            "id": "hud-surface",
+            "visible": false
+          },
+          {
+            "id": "hud-fps",
+            "visible": false
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "SIMULATION PAUSED 暂停 PAUSED 比赛已暂停 · 计时与 AI 均已冻结 继续 RESUME 重开 RESTART 退出 QUIT 操作 CONTROLS W ↑ 油门 THROTTLE S ↓ 刹车 BRAKE A D 转向 STEER SPACE 手刹 DRIFT ESC P 暂停 PAUSE R 重开 RESTART C 复位 RESET M 静音 MUTE V 切换视角 CAMERA F1 H 调试 DEBUG 声音 SOUND 开 ON ESC / P 继续 · R 重开 · 进度不会保存",
+        "bodyTextLength": 265,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "11-resumed",
+      "file": "artifacts/11-resumed.png",
+      "bytes": 825830,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 19.19,
+        "stddevLuminance": 28.39,
+        "nonDarkFraction": 0.2611,
+        "distinctColors": 196
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": false
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": true
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": true
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": true
+          },
+          {
+            "id": "hud-best",
+            "visible": true
+          },
+          {
+            "id": "hud-last",
+            "visible": true
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": true
+          },
+          {
+            "id": "hud-rev",
+            "visible": true
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": true
+          },
+          {
+            "id": "hud-fps",
+            "visible": true
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "P6 /6 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:02.975 比赛计时 RACE 0:04.325 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 RIPTIDE L1 3 ONYX L1 4 VIPER L1 5 NOVA L1 6 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 166 KM/H 档位 GEAR 4 漂移充能 DRIFT CHARGE 0% 草地 GRASS FPS 46",
+        "bodyTextLength": 300,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "12-restarted",
+      "file": "artifacts/12-restarted.png",
+      "bytes": 781466,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 21.84,
+        "stddevLuminance": 34.02,
+        "nonDarkFraction": 0.2744,
+        "distinctColors": 195
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": false
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": true
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": true
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": true
+          },
+          {
+            "id": "hud-best",
+            "visible": true
+          },
+          {
+            "id": "hud-last",
+            "visible": true
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": true
+          },
+          {
+            "id": "hud-rev",
+            "visible": false
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": true
+          },
+          {
+            "id": "hud-fps",
+            "visible": true
+          },
+          {
+            "id": "hud-countdown",
+            "visible": true
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "P1 /6 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:00.000 比赛计时 RACE 0:00.000 赛道 TRACK 实时排名 LIVE STANDINGS 1 PLAYER L1 2 PULSAR L1 3 NOVA L1 4 ONYX L1 5 VIPER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 0 KM/H 档位 GEAR N 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 86 3 准备 GET READY",
+        "bodyTextLength": 299,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "13-quit-menu",
+      "file": "artifacts/13-quit-menu.png",
+      "bytes": 859785,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 13.45,
+        "stddevLuminance": 18.04,
+        "nonDarkFraction": 0.1447,
+        "distinctColors": 126
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": true
+          },
+          {
+            "id": "seed",
+            "visible": true
+          },
+          {
+            "id": "random-seed",
+            "visible": true
+          },
+          {
+            "id": "style",
+            "visible": true
+          },
+          {
+            "id": "laps",
+            "visible": true
+          },
+          {
+            "id": "opponents",
+            "visible": true
+          },
+          {
+            "id": "difficulty",
+            "visible": true
+          },
+          {
+            "id": "car-class",
+            "visible": true
+          },
+          {
+            "id": "camera-mode",
+            "visible": true
+          },
+          {
+            "id": "player-name",
+            "visible": true
+          },
+          {
+            "id": "record-track-name",
+            "visible": true
+          },
+          {
+            "id": "record-track-meta",
+            "visible": true
+          },
+          {
+            "id": "record-best-lap",
+            "visible": true
+          },
+          {
+            "id": "record-best-total",
+            "visible": true
+          },
+          {
+            "id": "record-runs",
+            "visible": true
+          },
+          {
+            "id": "start-race",
+            "visible": true
+          },
+          {
+            "id": "sound-toggle",
+            "visible": true
+          },
+          {
+            "id": "legend-camera",
+            "visible": true
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": true
+          },
+          {
+            "id": "hud-root",
+            "visible": false
+          },
+          {
+            "id": "hud-place",
+            "visible": false
+          },
+          {
+            "id": "hud-lap",
+            "visible": false
+          },
+          {
+            "id": "hud-class",
+            "visible": false
+          },
+          {
+            "id": "hud-camera",
+            "visible": false
+          },
+          {
+            "id": "hud-current",
+            "visible": false
+          },
+          {
+            "id": "hud-time",
+            "visible": false
+          },
+          {
+            "id": "hud-minimap",
+            "visible": false
+          },
+          {
+            "id": "hud-standings",
+            "visible": false
+          },
+          {
+            "id": "hud-best",
+            "visible": false
+          },
+          {
+            "id": "hud-last",
+            "visible": false
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": false
+          },
+          {
+            "id": "hud-rev",
+            "visible": false
+          },
+          {
+            "id": "hud-speed",
+            "visible": false
+          },
+          {
+            "id": "hud-gear",
+            "visible": false
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": false
+          },
+          {
+            "id": "hud-surface",
+            "visible": false
+          },
+          {
+            "id": "hud-fps",
+            "visible": false
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "零依赖街机赛车 · ZERO-DEPENDENCY ARCADE RACER NEON RACER 霓虹赛车 · 夜城狂飙 · NIGHT CITY OVERDRIVE 60 FPS TARGET 10 RACERS MAX 0 ASSET FILES 比赛设置 RACE SETUP P1 GRID 赛道种子 TRACK SEED 随机 RANDOM 赛道风格 TRACK STYLE 环道 CIRCUIT 技术赛道 TECHNICAL 高速环 SPEEDWAY 随机 RANDOM 圈数 LAPS 3 对手数量 OPPONENTS 5 难度 DIFFICULTY 新手 ROOKIE 标准 PRO 高手 VETERAN 疯子 INSANE 赛车等级 CAR CLASS BALANCED · 均衡 DRIFTER · 漂移 SPEEDSTER · 疾速 视角 CAMERA 第三人称跟随 CHASE CAM 俯视 NORTH-UP 车手名称 PLAYER NAME 赛道记录 TRACK RECORD SEED 20261018 · CIRCUIT VIOLET HAIRPIN 环道 CIRCU",
+        "bodyTextLength": 960,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "14-started-again",
+      "file": "artifacts/14-started-again.png",
+      "bytes": 819105,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 24.25,
+        "stddevLuminance": 25.83,
+        "nonDarkFraction": 0.4356,
+        "distinctColors": 182
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": true
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": true
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": true
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": true
+          },
+          {
+            "id": "hud-best",
+            "visible": true
+          },
+          {
+            "id": "hud-last",
+            "visible": true
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": true
+          },
+          {
+            "id": "hud-rev",
+            "visible": true
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": true
+          },
+          {
+            "id": "hud-fps",
+            "visible": true
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "出发 GO! P4 /6 圈数 LAP 1/3 难度 DIFFICULTY PRO V CHASE 跟随 当前圈 CURRENT LAP 0:02.642 比赛计时 RACE 0:03.150 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 NOVA L1 3 VIPER L1 4 PLAYER L1 5 ONYX L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 168 KM/H 档位 GEAR 4 漂移充能 DRIFT CHARGE 0% 草地 GRASS FPS 49",
+        "bodyTextLength": 294,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "15-perf-racing",
+      "file": "artifacts/15-perf-racing.png",
+      "bytes": 897271,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 27.65,
+        "stddevLuminance": 33.31,
+        "nonDarkFraction": 0.4533,
+        "distinctColors": 246
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": false
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": true
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": true
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": true
+          },
+          {
+            "id": "hud-best",
+            "visible": true
+          },
+          {
+            "id": "hud-last",
+            "visible": true
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": true
+          },
+          {
+            "id": "hud-rev",
+            "visible": true
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": true
+          },
+          {
+            "id": "hud-fps",
+            "visible": true
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "P10 /10 圈数 LAP 1/3 难度 DIFFICULTY VETERAN V CHASE 跟随 当前圈 CURRENT LAP 0:04.033 比赛计时 RACE 0:05.083 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 GHOST L1 3 RIPTIDE L1 4 KATANA L1 5 BLAZE L1 10 PLAYER L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR SPEEDSTER · 疾速 181 KM/H 档位 GEAR 4 漂移充能 DRIFT CHARGE 0% 草地 GRASS FPS 28",
+        "bodyTextLength": 311,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      }
+    },
+    {
+      "name": "16-wrong-way",
+      "file": "artifacts/16-wrong-way.png",
+      "bytes": 1197868,
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 19.42,
+        "stddevLuminance": 30.03,
+        "nonDarkFraction": 0.2275,
+        "distinctColors": 166
+      },
+      "dom": {
+        "title": "NEON RACER · 霓虹赛车",
+        "testids": [
+          {
+            "id": "menu",
+            "visible": false
+          },
+          {
+            "id": "seed",
+            "visible": false
+          },
+          {
+            "id": "random-seed",
+            "visible": false
+          },
+          {
+            "id": "style",
+            "visible": false
+          },
+          {
+            "id": "laps",
+            "visible": false
+          },
+          {
+            "id": "opponents",
+            "visible": false
+          },
+          {
+            "id": "difficulty",
+            "visible": false
+          },
+          {
+            "id": "car-class",
+            "visible": false
+          },
+          {
+            "id": "camera-mode",
+            "visible": false
+          },
+          {
+            "id": "player-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-name",
+            "visible": false
+          },
+          {
+            "id": "record-track-meta",
+            "visible": false
+          },
+          {
+            "id": "record-best-lap",
+            "visible": false
+          },
+          {
+            "id": "record-best-total",
+            "visible": false
+          },
+          {
+            "id": "record-runs",
+            "visible": false
+          },
+          {
+            "id": "start-race",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "pause-overlay",
+            "visible": false
+          },
+          {
+            "id": "pause-resume",
+            "visible": false
+          },
+          {
+            "id": "pause-restart",
+            "visible": false
+          },
+          {
+            "id": "pause-quit",
+            "visible": false
+          },
+          {
+            "id": "legend-camera",
+            "visible": false
+          },
+          {
+            "id": "sound-toggle",
+            "visible": false
+          },
+          {
+            "id": "results",
+            "visible": false
+          },
+          {
+            "id": "new-record",
+            "visible": false
+          },
+          {
+            "id": "results-restart",
+            "visible": false
+          },
+          {
+            "id": "results-quit",
+            "visible": false
+          },
+          {
+            "id": "toasts",
+            "visible": true
+          },
+          {
+            "id": "hud-root",
+            "visible": true
+          },
+          {
+            "id": "hud-place",
+            "visible": true
+          },
+          {
+            "id": "hud-lap",
+            "visible": true
+          },
+          {
+            "id": "hud-class",
+            "visible": true
+          },
+          {
+            "id": "hud-camera",
+            "visible": true
+          },
+          {
+            "id": "hud-current",
+            "visible": true
+          },
+          {
+            "id": "hud-time",
+            "visible": true
+          },
+          {
+            "id": "hud-minimap",
+            "visible": true
+          },
+          {
+            "id": "hud-standings",
+            "visible": true
+          },
+          {
+            "id": "hud-best",
+            "visible": true
+          },
+          {
+            "id": "hud-last",
+            "visible": true
+          },
+          {
+            "id": "hud-delta",
+            "visible": false
+          },
+          {
+            "id": "hud-car",
+            "visible": true
+          },
+          {
+            "id": "hud-rev",
+            "visible": true
+          },
+          {
+            "id": "hud-speed",
+            "visible": true
+          },
+          {
+            "id": "hud-gear",
+            "visible": true
+          },
+          {
+            "id": "hud-boost",
+            "visible": false
+          },
+          {
+            "id": "hud-boost-state",
+            "visible": true
+          },
+          {
+            "id": "hud-surface",
+            "visible": true
+          },
+          {
+            "id": "hud-fps",
+            "visible": true
+          },
+          {
+            "id": "hud-countdown",
+            "visible": false
+          },
+          {
+            "id": "hud-wrong-way",
+            "visible": false
+          },
+          {
+            "id": "hud-finish",
+            "visible": false
+          }
+        ],
+        "bodyText": "出发 GO! 方向错误 WRONG WAY! P2 /3 圈数 LAP 1/3 难度 DIFFICULTY ROOKIE V CHASE 跟随 当前圈 CURRENT LAP 0:00.075 比赛计时 RACE 0:04.517 赛道 TRACK 实时排名 LIVE STANDINGS 1 PULSAR L1 2 WRONGWAY L1 3 NOVA L1 最快圈 BEST --:--.--- 上圈 LAST --:--.--- 赛车 CAR BALANCED · 均衡 226 KM/H 档位 GEAR 5 漂移充能 DRIFT CHARGE 0% 道路 ROAD FPS 52",
+        "bodyTextLength": 293,
+        "viewport": {
+          "width": 1600,
+          "height": 900,
+          "dpr": 1
+        },
+        "scrollWidth": 1600,
+        "scrollHeight": 900
+      },
+      "probe": [
+        {
+          "method": "reverse",
+          "wrongWaySeen": true,
+          "speed": 144.9
+        }
+      ],
+      "hud": {
+        "exists": true,
+        "isOn": true,
+        "hidden": false,
+        "display": "block",
+        "visibility": "visible",
+        "opacity": "0.886173",
+        "text": "⚠ 方向错误 WRONG WAY ⚠"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "name": "debug API available",
+      "pass": true,
+      "detail": "version 1.0.0",
+      "fatality": "hard"
+    },
+    {
+      "name": "determinism: two identical scripted runs produce identical state() samples",
+      "pass": true,
+      "detail": "samples/run=60",
+      "fatality": "hard"
+    },
+    {
+      "name": "determinism: identical final state()/standings outcome",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: 1600x900 racing screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: 1600x900 viewport exact",
+      "pass": true,
+      "detail": "1600x900",
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: 390x844 menu screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: 390x844 menu visible after fresh mobile boot",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: on-screen touch controls created on a touch device",
+      "pass": true,
+      "detail": "touch buttons=6 testids=[\"touch-controls\",\"touch-pause\"]",
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: no horizontal overflow at 390x844",
+      "pass": true,
+      "detail": "scrollWidth=390 viewport=390",
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: coarse pointer emulation",
+      "pass": true,
+      "detail": "matchMedia('(pointer: coarse)') = true",
+      "fatality": "note"
+    },
+    {
+      "name": "responsive: 390x844 racing screenshot valid",
+      "pass": true,
+      "detail": "ok; canvas css 390x844",
+      "fatality": "hard"
+    },
+    {
+      "name": "responsive: desktop viewport restored (1600x900), menu visible",
+      "pass": true,
+      "detail": "viewport=1600x900 menu=true",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: race starts from the real UI button",
+      "pass": true,
+      "detail": "phase=racing",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: pause overlay visible",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: paused simulation is frozen (tick(1) advances nothing)",
+      "pass": true,
+      "detail": "time 2.9916666666666587 -> 2.9916666666666587",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: pause screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: pause overlay hidden after RESUME",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: simulation advances after resume",
+      "pass": true,
+      "detail": "time 3.083333333333325 -> 3.5833333333333233",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: resume screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: restart mid-race resets to countdown",
+      "pass": true,
+      "detail": "phase=countdown time=0",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: restart screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: quit clears the race and shows the menu",
+      "pass": true,
+      "detail": "stateNull=true menu=true",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: quit screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: race starts again after quit",
+      "pass": true,
+      "detail": "phase=racing",
+      "fatality": "hard"
+    },
+    {
+      "name": "robustness: start-again screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "NaN hunt: 30 s of racing at 120 Hz produces no NaN/Infinity in state() or racer state",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "NaN hunt: driving actually happened (speed/drift/off-road)",
+      "pass": true,
+      "detail": "maxSpeed=561 drift=true boost=false offroad=true",
+      "fatality": "hard"
+    },
+    {
+      "name": "NaN hunt: per-rAF state() polling is finite",
+      "pass": true,
+      "detail": "frames=155",
+      "fatality": "hard"
+    },
+    {
+      "name": "perf: rAF sampler collected frames",
+      "pass": true,
+      "detail": "frames=145",
+      "fatality": "hard"
+    },
+    {
+      "name": "perf: main-thread cost per frame within the 60 fps budget (<= 16.7 ms)",
+      "pass": true,
+      "detail": "mainThread=5.32 ms/frame (script=2.22, layout=0.45)",
+      "fatality": "hard"
+    },
+    {
+      "name": "perf: rAF interval mean <= 22 ms",
+      "pass": true,
+      "detail": "mean=20.77 ms p95=31.3 ms",
+      "fatality": "hard"
+    },
+    {
+      "name": "perf: racing screenshot during perf run valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "wrong-way: driving against the track sets racer.wrongWay",
+      "pass": true,
+      "detail": "method=reverse attempts=[{\"method\":\"reverse\",\"wrongWaySeen\":true,\"speed\":144.9}]",
+      "fatality": "hard"
+    },
+    {
+      "name": "wrong-way: HUD warning indicator turns on",
+      "pass": true,
+      "detail": "hud-wrong-way {\"exists\":true,\"isOn\":true,\"hidden\":false,\"display\":\"block\",\"visibility\":\"visible\",\"opacity\":\"0.886173\",\"text\":\"⚠ 方向错误 WRONG WAY ⚠\"}",
+      "fatality": "hard"
+    },
+    {
+      "name": "wrong-way: screenshot valid",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "07-responsive-1600x900.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "09-responsive-390x844-menu.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "08-responsive-390x844-racing.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "10-pause.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "11-resumed.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "12-restarted.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "13-quit-menu.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "14-started-again.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "15-perf-racing.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "16-wrong-way.png valid (>20 KB, non-blank, valid PNG)",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    },
+    {
+      "name": "console/page/network clean for the whole adversarial run",
+      "pass": true,
+      "detail": null,
+      "fatality": "hard"
+    }
+  ],
+  "failures": [],
+  "perf": {
+    "viewport": {
+      "width": 1600,
+      "height": 900
+    },
+    "racers": 10,
+    "sampleSeconds": 3,
+    "frames": 145,
+    "meanIntervalMs": 20.77,
+    "p50Ms": 22.9,
+    "p95Ms": 31.3,
+    "maxMs": 47.4,
+    "minMs": 0.6,
+    "fps": 48.1,
+    "hudFpsText": "46",
+    "mainThreadMsPerFrame": 5.32,
+    "scriptMsPerFrame": 2.22,
+    "layoutMsPerFrame": 0.45,
+    "flagMeanOver22ms": false,
+    "compositorBound": false
+  },
+  "determinism": {
+    "samplesPerRun": 60,
+    "identicalSamples": true,
+    "identicalFinal": true,
+    "finalA": "{\"state\":{\"phase\":\"racing\",\"time\":30.79166666666556,\"countdown\":0,\"lap\":0,\"laps\":1,\"place\":4,\"racers\":4,\"speed\":83.88385383959772,\"pos\":{\"x\":-326.46866035278396,\"y\":2446.205369612446},\"bestLap\":null,\"finished\":false,\"trackLength\":15504.839803088465,\"cameraMode\":\"chase\",\"cameraZoom\":1.02,\"cameraAngle\":0},\"standings\":[{\"id\":1,\"name\":\"VIPER\",\"place\":1,\"lap\":1,\"totalS\":15506.192576615329},{\"id\":2,\"name\":\"PULSAR\",\"place\":2,\"lap\":0,\"totalS\":15283.225861699084},{\"id\":3,\"name\":\"NOVA\",\"place\":3,\"lap\":0,\"totalS\":15130.393946285727},{\"id\":0,\"name\":\"DET\",\"place\":4,\"lap\":0,\"totalS\":6700.629345704111}]}",
+    "finalB": "{\"state\":{\"phase\":\"racing\",\"time\":30.79166666666556,\"countdown\":0,\"lap\":0,\"laps\":1,\"place\":4,\"racers\":4,\"speed\":83.88385383959772,\"pos\":{\"x\":-326.46866035278396,\"y\":2446.205369612446},\"bestLap\":null,\"finished\":false,\"trackLength\":15504.839803088465,\"cameraMode\":\"chase\",\"cameraZoom\":1.02,\"cameraAngle\":0},\"standings\":[{\"id\":1,\"name\":\"VIPER\",\"place\":1,\"lap\":1,\"totalS\":15506.192576615329},{\"id\":2,\"name\":\"PULSAR\",\"place\":2,\"lap\":0,\"totalS\":15283.225861699084},{\"id\":3,\"name\":\"NOVA\",\"place\":3,\"lap\":0,\"totalS\":15130.393946285727},{\"id\":0,\"name\":\"DET\",\"place\":4,\"lap\":0,\"totalS\":6700.629345704111}]}"
+  },
+  "robustness": [
+    {
+      "action": "pause",
+      "overlayVisible": true,
+      "timeBefore": 2.9916666666666587,
+      "timeAfter": 2.9916666666666587
+    },
+    {
+      "action": "resume",
+      "overlayHidden": true,
+      "timeBefore": 3.083333333333325,
+      "timeAfter": 3.5833333333333233
+    },
+    {
+      "action": "restart",
+      "phase": "countdown",
+      "time": 0
+    },
+    {
+      "action": "quit",
+      "pausedForQuit": true,
+      "stateNull": true,
+      "menuVisible": true
+    },
+    {
+      "action": "start-again",
+      "phase": "racing",
+      "speed": 333.32032789818345
+    }
+  ],
+  "nanHunt": {
+    "sync": {
+      "steps": 3600,
+      "maxSpeed": 561,
+      "driftSeen": true,
+      "boostSeen": false,
+      "offroadSeen": true,
+      "phase": "racing",
+      "hudHasNaN": false,
+      "badCount": 0
+    },
+    "syncBad": [],
+    "raf": {
+      "frames": 155,
+      "bad": []
+    }
+  },
+  "responsive": {
+    "desktop": {
+      "png": {
+        "width": 1600,
+        "height": 900
+      },
+      "canvas": {
+        "backingWidth": 1600,
+        "backingHeight": 900,
+        "cssWidth": 1600,
+        "cssHeight": 900,
+        "meanLuminance": 19.94,
+        "stddevLuminance": 29.34,
+        "nonDarkFraction": 0.2917,
+        "distinctColors": 190
+      }
+    },
+    "mobile": {
+      "viewport": {
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "scrollWidth": 390,
+        "coarsePointer": true,
+        "touchButtons": 6,
+        "touchTestids": [
+          "touch-controls",
+          "touch-pause"
+        ]
+      },
+      "menuPng": {
+        "width": 390,
+        "height": 844
+      },
+      "racingPng": {
+        "width": 390,
+        "height": 844
+      },
+      "canvas": {
+        "backingWidth": 390,
+        "backingHeight": 844,
+        "cssWidth": 390,
+        "cssHeight": 844,
+        "meanLuminance": 34.01,
+        "stddevLuminance": 37.25,
+        "nonDarkFraction": 0.6554,
+        "distinctColors": 259
+      }
+    }
+  },
+  "wrongWay": {
+    "method": "reverse",
+    "wrongWaySeen": true,
+    "simTime": 2.4583333333333273,
+    "speedAtTrigger": 144.9,
+    "attempts": [
+      {
+        "method": "reverse",
+        "wrongWaySeen": true,
+        "speed": 144.9
+      }
+    ],
+    "angleVsTrack": -0.001,
+    "snapshot": {
+      "speed": 144.9,
+      "wrongWay": true,
+      "s": 15995.4,
+      "time": 3.25,
+      "lap": 0,
+      "counterSteer": true
+    },
+    "hudIndicatorOn": false,
+    "hudAfterFrames": {
+      "exists": true,
+      "isOn": true,
+      "hidden": false,
+      "display": "block",
+      "visibility": "visible",
+      "opacity": "0.886173",
+      "text": "⚠ 方向错误 WRONG WAY ⚠"
+    }
+  },
+  "console": {
+    "consoleErrors": [],
+    "pageErrors": [],
+    "networkErrors": [],
+    "httpErrors": [],
+    "logEntries": [
+      {
+        "level": "warning",
+        "source": "rendering",
+        "text": "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently",
+        "url": null,
+        "line": 17,
+        "ts": 1792350029906
+      },
+      {
+        "level": "warning",
+        "source": "rendering",
+        "text": "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently",
+        "url": null,
+        "line": 17,
+        "ts": 1792350031775
+      },
+      {
+        "level": "warning",
+        "source": "rendering",
+        "text": "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently",
+        "url": null,
+        "line": 17,
+        "ts": 1792350035787
+      }
+    ],
+    "fatal": []
+  },
+  "ok": true,
+  "chrome": "Chrome/155.0.8059.82",
+  "chromeLog": "DevTools listening on ws://127.0.0.1:64030/devtools/browser/621783d5-c6e2-413f-ab5d-6862b11c4027\r\n[37216:54036:1019/030044.136:ERROR:google_apis\\gcm\\engine\\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT\r\n[37216:43500:1019/030044.746:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 44264: 拒绝访问。 (0x5)\r\n[37216:49724:1019/030046.939:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 23772: 拒绝访问。 (0x5)\r\n[37216:34264:1019/030047.154:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 51544: 拒绝访问。 (0x5)\r\n[37216:49724:1019/030047.351:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 19336: 拒绝访问。 (0x5)\r\n[37216:34264:1019/030049.575:ERROR:chrome\\updater\\ipc\\update_service_dialer_win.cc:76] Failed to open named pipe server process 1832: 拒绝访问。 (0x5)",
+  "finishedAt": "2026-10-18T19:00:53.646Z",
+  "durationMs": 28421
+}
